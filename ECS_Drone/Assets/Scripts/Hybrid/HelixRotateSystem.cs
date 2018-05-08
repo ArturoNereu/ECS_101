@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 using Unity.Entities;
 
-public class DroneMoveSystem : ComponentSystem
+public class HelixRotateSystem : ComponentSystem
 {
     struct Data
     {
         public Transform transform;
-        public DroneMoveComponent movementSpeed;
+        public HelixRotateComponent helixComponent;
     }
 
     protected override void OnUpdate()
@@ -15,9 +15,9 @@ public class DroneMoveSystem : ComponentSystem
 
         foreach(var entity in GetEntities<Data>())
         {
-            var pos = entity.transform;
+            var rot = entity.transform;
 
-            pos.position += new Vector3(0, entity.movementSpeed.movementSpeed * dt, 0);
+            rot.rotation = rot.rotation * Quaternion.AngleAxis(entity.helixComponent.rotationSpeed * dt, Vector3.up);
         }
     }
 }

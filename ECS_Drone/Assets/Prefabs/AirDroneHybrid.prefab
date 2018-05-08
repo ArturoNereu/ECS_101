@@ -87,7 +87,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4220753179310670}
-  - component: {fileID: 95185874955161338}
   - component: {fileID: 114824121044056646}
   - component: {fileID: 114654956417030844}
   m_Layer: 0
@@ -531,24 +530,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1712098434914064}
   m_Mesh: {fileID: 4300008, guid: 52728cbaf6fdb48fca5521c6ea08ac4c, type: 3}
---- !u!95 &95185874955161338
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1638428317097820}
-  m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 52728cbaf6fdb48fca5521c6ea08ac4c, type: 3}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &114021653236049130
 MonoBehaviour:
   m_ObjectHideFlags: 1

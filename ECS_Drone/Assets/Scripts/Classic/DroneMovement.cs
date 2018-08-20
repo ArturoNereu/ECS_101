@@ -2,7 +2,6 @@
 
 public class DroneMovement : MonoBehaviour
 {
-
     public float translationSpeed;
 	
 	void Update ()

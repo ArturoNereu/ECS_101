@@ -1,476 +1,131 @@
  (0,0): Unity incremental compiler server
- (0,0): watchdog active on pid: 3084
- (0,0): [10/16/2018 06:30:58.535 PM] Unity.TextMeshPro.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:30:58.552 PM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/16/2018 06:30:58.571 PM] Unity.Burst.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:30:58.583 PM] Unity.Burst.dll compiling...
- (0,0): [10/16/2018 06:30:58.602 PM] Unity.Mathematics.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:30:58.614 PM] Unity.Mathematics.dll compiling...
- (0,0): [10/16/2018 06:30:58.812 PM] Unity.Properties.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:30:58.812 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:30:58.831 PM] Unity.Properties.dll compiling...
- (0,0): [10/16/2018 06:30:58.844 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:02.306 PM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.dll
- (0,0): [10/16/2018 06:31:02.306 PM] Unity.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.dll
- (0,0): [10/16/2018 06:31:02.306 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/16/2018 06:31:02.306 PM] Unity.Burst.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.dll
- (0,0): [10/16/2018 06:31:02.383 PM] Unity.Burst.dll compilation finished in 3800ms  source files re-parsed: 2 metadata reloaded: 192
- (0,0): [10/16/2018 06:31:02.454 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 3610ms  source files re-parsed: 44 metadata reloaded: 101
- (0,0): [10/16/2018 06:31:02.454 PM] Unity.Properties.dll compilation finished in 3623ms  source files re-parsed: 34 metadata reloaded: 101
- (0,0): [10/16/2018 06:31:02.539 PM] Unity.TextMeshPro.dll compilation finished in 3986ms  source files re-parsed: 45 metadata reloaded: 201
- (0,0): [10/16/2018 06:31:02.902 PM] Unity.Burst.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:02.915 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:03.014 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.Editor.dll
- (0,0): [10/16/2018 06:31:03.100 PM] Unity.Burst.Editor.dll compilation finished in 185ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:03.124 PM] Unity.Properties.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:03.137 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:03.272 PM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:03.285 PM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:03.372 PM] Unity.Properties.Codegen.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:03.390 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/16/2018 06:31:03.513 PM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Editor.dll
- (0,0): [10/16/2018 06:31:03.635 PM] Unity.Properties.Editor.dll compilation finished in 498ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:03.637 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/16/2018 06:31:03.717 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/16/2018 06:31:03.727 PM] Unity.Properties.Codegen.dll compilation finished in 337ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:03.742 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.dll
- (0,0): [10/16/2018 06:31:03.814 PM] Unity.Mathematics.dll compilation finished in 5201ms  source files re-parsed: 81 metadata reloaded: 137
- (0,0): [10/16/2018 06:31:03.895 PM] Unity.TextMeshPro.Editor.dll compilation finished in 610ms  source files re-parsed: 39 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:04.086 PM] Unity.Collections.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:04.099 PM] Unity.Collections.dll compiling...
- (0,0): [10/16/2018 06:31:04.201 PM] Unity.Mathematics.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:04.206 PM] Unity.Collections.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.dll
- (0,0): [10/16/2018 06:31:04.213 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:04.251 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/16/2018 06:31:04.273 PM] Unity.Collections.dll compilation finished in 174ms  source files re-parsed: 11 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:04.300 PM] Unity.Mathematics.Editor.dll compilation finished in 86ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:04.545 PM] Unity.Entities.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:04.557 PM] Unity.Entities.dll compiling...
- (0,0): [10/16/2018 06:31:04.698 PM] Unity.Jobs.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:04.838 PM] Unity.Jobs.dll compiling...
- (0,0): [10/16/2018 06:31:04.843 PM] Unity.Collections.Tests.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:04.856 PM] Unity.Collections.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:04.896 PM] Unity.Jobs.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.dll
- (0,0): [10/16/2018 06:31:04.938 PM] Unity.Entities.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.dll
- (0,0): [10/16/2018 06:31:04.955 PM] Unity.Jobs.dll compilation finished in 116ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:04.962 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.Tests.dll
- (0,0): [10/16/2018 06:31:05.039 PM] Unity.Collections.Tests.dll compilation finished in 183ms  source files re-parsed: 16 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:05.039 PM] Unity.Entities.dll compilation finished in 482ms  source files re-parsed: 57 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:05.274 PM] Unity.Jobs.Tests.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:05.287 PM] Unity.Jobs.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:05.336 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Tests.dll
- (0,0): [10/16/2018 06:31:05.376 PM] Unity.Jobs.Tests.dll compilation finished in 89ms  source files re-parsed: 2 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:05.385 PM] Unity.Jobs.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:05.397 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:05.428 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/16/2018 06:31:05.459 PM] Unity.Jobs.Editor.dll compilation finished in 62ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:05.474 PM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:05.487 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:31:05.538 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/16/2018 06:31:05.590 PM] Unity.Entities.Hybrid.dll compilation finished in 104ms  source files re-parsed: 11 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:05.875 PM] Unity.Transforms.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:05.887 PM] Unity.Transforms.dll compiling...
- (0,0): [10/16/2018 06:31:06.021 PM] Unity.Entities.TestComponents.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:06.027 PM] Unity.Transforms.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.dll
- (0,0): [10/16/2018 06:31:06.034 PM] Unity.Entities.TestComponents.dll compiling...
- (0,0): [10/16/2018 06:31:06.075 PM] Unity.Entities.TestComponents.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.TestComponents.dll
- (0,0): [10/16/2018 06:31:06.100 PM] Unity.Transforms.dll compilation finished in 213ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:06.106 PM] Unity.Entities.TestComponents.dll compilation finished in 72ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:06.495 PM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:06.507 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:31:06.568 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/16/2018 06:31:06.591 PM] Unity.Entities.Properties.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:06.603 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/16/2018 06:31:06.637 PM] Unity.Rendering.Hybrid.dll compilation finished in 131ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:06.667 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.dll
- (0,0): [10/16/2018 06:31:06.710 PM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:06.722 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:31:06.734 PM] Unity.Entities.Properties.dll compilation finished in 131ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:06.770 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/16/2018 06:31:06.801 PM] Unity.Entities.Tests.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:06.803 PM] Unity.Transforms.Hybrid.dll compilation finished in 82ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:06.813 PM] Unity.Entities.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:07.065 PM] Unity.Entities.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Tests.dll
- (0,0): [10/16/2018 06:31:07.131 PM] Unity.Entities.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:07.143 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:07.178 PM] Unity.Entities.Tests.dll compilation finished in 365ms  source files re-parsed: 40 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:07.259 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.dll
- (0,0): [10/16/2018 06:31:07.265 PM] Unity.Entities.Properties.Tests.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:07.277 PM] Unity.Entities.Properties.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:07.334 PM] Unity.Entities.Properties.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.Tests.dll
- (0,0): [10/16/2018 06:31:07.348 PM] Unity.Entities.Editor.dll compilation finished in 204ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:07.372 PM] Unity.Entities.Properties.Tests.dll compilation finished in 95ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:07.410 PM] Unity.Transforms.Tests.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:07.422 PM] Unity.Transforms.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:07.497 PM] Unity.Transforms.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Tests.dll
- (0,0): [10/16/2018 06:31:07.519 PM] Unity.Entities.Hybrid.Tests.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:07.531 PM] Unity.Entities.Hybrid.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:07.553 PM] Unity.Transforms.Tests.dll compilation finished in 132ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:07.579 PM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.Tests.dll
- (0,0): [10/16/2018 06:31:07.610 PM] Unity.Entities.Editor.Tests.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:07.622 PM] Unity.Entities.Editor.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:07.630 PM] Unity.Entities.Hybrid.Tests.dll compilation finished in 99ms  source files re-parsed: 8 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:07.678 PM] Unity.Entities.Editor.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.Tests.dll
- (0,0): [10/16/2018 06:31:07.739 PM] Unity.Entities.Editor.Tests.dll compilation finished in 117ms  source files re-parsed: 4 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:10.501 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:10.513 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/16/2018 06:31:10.553 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [10/16/2018 06:31:10.587 PM] Assembly-CSharp.dll compilation finished in 75ms  source files re-parsed: 11 metadata reloaded: 9
- (0,0): [10/16/2018 06:31:15.868 PM] Unity.TextMeshPro.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:15.880 PM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/16/2018 06:31:15.954 PM] Unity.Mathematics.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:15.968 PM] Unity.Mathematics.dll compiling...
- (0,0): [10/16/2018 06:31:16.265 PM] Unity.Properties.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:16.295 PM] Unity.Properties.dll compiling...
- (0,0): [10/16/2018 06:31:16.356 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:16.380 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:16.483 PM] Unity.Burst.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:16.669 PM] Unity.Burst.dll compiling...
- (0,0): [10/16/2018 06:31:16.823 PM] Unity.Burst.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.dll
- (0,0): [10/16/2018 06:31:16.896 PM] Unity.Burst.dll compilation finished in 226ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:17.432 PM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.dll
- (0,0): [10/16/2018 06:31:17.434 PM] Unity.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.dll
- (0,0): [10/16/2018 06:31:17.483 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/16/2018 06:31:17.488 PM] Unity.Burst.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:17.501 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:17.574 PM] Unity.Properties.dll compilation finished in 1279ms  source files re-parsed: 34 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:17.579 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.Editor.dll
- (0,0): [10/16/2018 06:31:17.620 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 1240ms  source files re-parsed: 44 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:17.650 PM] Unity.Burst.Editor.dll compilation finished in 149ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:17.666 PM] Unity.TextMeshPro.dll compilation finished in 1786ms  source files re-parsed: 45 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:17.864 PM] Unity.Properties.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:17.876 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:17.989 PM] Unity.Properties.Codegen.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:18.002 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/16/2018 06:31:18.004 PM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Editor.dll
- (0,0): [10/16/2018 06:31:18.077 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/16/2018 06:31:18.104 PM] Unity.Properties.Editor.dll compilation finished in 227ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:18.145 PM] Unity.Properties.Codegen.dll compilation finished in 144ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:18.153 PM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:18.166 PM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:18.390 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/16/2018 06:31:18.592 PM] Unity.TextMeshPro.Editor.dll compilation finished in 426ms  source files re-parsed: 39 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:18.648 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.dll
- (0,0): [10/16/2018 06:31:18.721 PM] Unity.Mathematics.dll compilation finished in 2754ms  source files re-parsed: 81 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:18.963 PM] Unity.Collections.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:18.975 PM] Unity.Collections.dll compiling...
- (0,0): [10/16/2018 06:31:19.045 PM] Unity.Collections.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.dll
- (0,0): [10/16/2018 06:31:19.063 PM] Unity.Mathematics.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:19.075 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:19.105 PM] Unity.Collections.dll compilation finished in 131ms  source files re-parsed: 11 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:19.116 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/16/2018 06:31:19.177 PM] Unity.Mathematics.Editor.dll compilation finished in 103ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:19.380 PM] Unity.Entities.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:19.392 PM] Unity.Entities.dll compiling...
- (0,0): [10/16/2018 06:31:19.554 PM] Unity.Jobs.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:19.567 PM] Unity.Jobs.dll compiling...
- (0,0): [10/16/2018 06:31:19.619 PM] Unity.Collections.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:19.646 PM] Unity.Jobs.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.dll
- (0,0): [10/16/2018 06:31:19.720 PM] Unity.Jobs.dll compilation finished in 153ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:19.724 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.Tests.dll
- (0,0): [10/16/2018 06:31:19.737 PM] Unity.Entities.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.dll
- (0,0): [10/16/2018 06:31:19.799 PM] Unity.Collections.Tests.dll compilation finished in 179ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:19.811 PM] Unity.Collections.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:19.845 PM] Unity.Entities.dll compilation finished in 453ms  source files re-parsed: 57 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:19.965 PM] Unity.Jobs.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:20.006 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Tests.dll
- (0,0): [10/16/2018 06:31:20.057 PM] Unity.Jobs.Tests.dll compilation finished in 91ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:20.069 PM] Unity.Jobs.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:20.083 PM] Unity.Jobs.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:20.095 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:20.123 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/16/2018 06:31:20.161 PM] Unity.Jobs.Editor.dll compilation finished in 66ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:20.171 PM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:20.183 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:31:20.238 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/16/2018 06:31:20.296 PM] Unity.Entities.Hybrid.dll compilation finished in 112ms  source files re-parsed: 11 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:20.708 PM] Unity.Transforms.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:20.720 PM] Unity.Transforms.dll compiling...
- (0,0): [10/16/2018 06:31:20.771 PM] Unity.Entities.TestComponents.dll compiling...
- (0,0): [10/16/2018 06:31:20.834 PM] Unity.Transforms.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.dll
- (0,0): [10/16/2018 06:31:20.834 PM] Unity.Entities.TestComponents.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.TestComponents.dll
- (0,0): [10/16/2018 06:31:20.876 PM] Unity.Entities.TestComponents.dll compilation finished in 105ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:20.888 PM] Unity.Entities.TestComponents.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:20.890 PM] Unity.Transforms.dll compilation finished in 170ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:21.316 PM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:21.328 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:31:21.416 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/16/2018 06:31:21.429 PM] Unity.Entities.Properties.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:21.442 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/16/2018 06:31:21.491 PM] Unity.Rendering.Hybrid.dll compilation finished in 162ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:21.522 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.dll
- (0,0): [10/16/2018 06:31:21.534 PM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:21.546 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:31:21.591 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/16/2018 06:31:21.597 PM] Unity.Entities.Properties.dll compilation finished in 156ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:21.615 PM] Unity.Entities.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:21.625 PM] Unity.Transforms.Hybrid.dll compilation finished in 79ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:21.795 PM] Unity.Entities.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Tests.dll
- (0,0): [10/16/2018 06:31:21.907 PM] Unity.Entities.Tests.dll compilation finished in 291ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:21.919 PM] Unity.Entities.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:22.162 PM] Unity.Entities.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:31:22.175 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:22.293 PM] Unity.Entities.Properties.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:22.298 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.dll
- (0,0): [10/16/2018 06:31:22.328 PM] Unity.Entities.Properties.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.Tests.dll
- (0,0): [10/16/2018 06:31:22.363 PM] Unity.Entities.Properties.Tests.dll compilation finished in 71ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:22.375 PM] Unity.Entities.Properties.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:22.379 PM] Unity.Entities.Editor.dll compilation finished in 205ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:22.396 PM] Unity.Entities.Hybrid.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:22.451 PM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.Tests.dll
- (0,0): [10/16/2018 06:31:22.490 PM] Unity.Transforms.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:22.519 PM] Unity.Entities.Hybrid.Tests.dll compilation finished in 121ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/16/2018 06:31:22.531 PM] Unity.Entities.Hybrid.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:22.545 PM] Unity.Transforms.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Tests.dll
- (0,0): [10/16/2018 06:31:22.597 PM] Unity.Transforms.Tests.dll compilation finished in 107ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:22.609 PM] Unity.Transforms.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:22.623 PM] Unity.Entities.Editor.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:22.672 PM] Unity.Entities.Editor.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.Tests.dll
- (0,0): [10/16/2018 06:31:22.721 PM] Unity.Entities.Editor.Tests.dll compilation finished in 97ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:22.733 PM] Unity.Entities.Editor.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:22.809 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/16/2018 06:31:22.840 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [10/16/2018 06:31:22.872 PM] Assembly-CSharp.dll compilation finished in 62ms  source files re-parsed: 0 metadata reloaded: 9
- (0,0): [10/16/2018 06:31:22.883 PM] Assembly-CSharp.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:29.967 PM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/16/2018 06:31:30.043 PM] Unity.Mathematics.dll compiling...
- (0,0): [10/16/2018 06:31:30.148 PM] Unity.Properties.dll compiling...
- (0,0): [10/16/2018 06:31:30.354 PM] Unity.Burst.dll compiling...
- (0,0): [10/16/2018 06:31:30.417 PM] Unity.Burst.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.dll
- (0,0): [10/16/2018 06:31:30.578 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:30.613 PM] Unity.Burst.dll compilation finished in 258ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:30.639 PM] Unity.Burst.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:30.833 PM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.dll
- (0,0): [10/16/2018 06:31:30.937 PM] Unity.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.dll
- (0,0): [10/16/2018 06:31:31.162 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/16/2018 06:31:31.408 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:31.418 PM] Unity.Properties.dll compilation finished in 1269ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:31.431 PM] Unity.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:31.467 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 889ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:31.479 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.Editor.dll
- (0,0): [10/16/2018 06:31:31.480 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:31.503 PM] Unity.TextMeshPro.dll compilation finished in 1534ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:31.515 PM] Unity.TextMeshPro.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:31.556 PM] Unity.Burst.Editor.dll compilation finished in 146ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:31.575 PM] Unity.Burst.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:32.539 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.dll
- (0,0): [10/16/2018 06:31:32.642 PM] Unity.Mathematics.dll compilation finished in 2599ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:32.654 PM] Unity.Mathematics.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:33.021 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:33.146 PM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Editor.dll
- (0,0): [10/16/2018 06:31:33.146 PM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:33.341 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/16/2018 06:31:33.391 PM] Unity.Properties.Editor.dll compilation finished in 370ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:33.420 PM] Unity.Properties.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:33.435 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:33.445 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/16/2018 06:31:33.456 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/16/2018 06:31:33.472 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/16/2018 06:31:33.503 PM] Unity.Properties.Codegen.dll compilation finished in 162ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:33.515 PM] Unity.Properties.Codegen.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:33.517 PM] Unity.Collections.dll compiling...
- (0,0): [10/16/2018 06:31:33.537 PM] Unity.Mathematics.Editor.dll compilation finished in 101ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:33.555 PM] Unity.Mathematics.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:33.584 PM] Unity.Collections.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.dll
- (0,0): [10/16/2018 06:31:33.641 PM] Unity.Collections.dll compilation finished in 123ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:33.653 PM] Unity.Collections.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:33.664 PM] Unity.TextMeshPro.Editor.dll compilation finished in 517ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:33.676 PM] Unity.TextMeshPro.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:34.032 PM] Unity.Entities.dll compiling...
- (0,0): [10/16/2018 06:31:34.155 PM] Unity.Jobs.dll compiling...
- (0,0): [10/16/2018 06:31:34.232 PM] Unity.Jobs.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.dll
- (0,0): [10/16/2018 06:31:34.254 PM] Unity.Collections.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:34.305 PM] Unity.Jobs.dll compilation finished in 149ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:34.327 PM] Unity.Jobs.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:34.336 PM] Unity.Entities.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.dll
- (0,0): [10/16/2018 06:31:34.356 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.Tests.dll
- (0,0): [10/16/2018 06:31:34.420 PM] Unity.Collections.Tests.dll compilation finished in 166ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:34.432 PM] Unity.Collections.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:34.432 PM] Unity.Entities.dll compilation finished in 401ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:34.444 PM] Unity.Entities.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:34.617 PM] Unity.Jobs.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:34.652 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Tests.dll
- (0,0): [10/16/2018 06:31:34.699 PM] Unity.Jobs.Tests.dll compilation finished in 81ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:34.711 PM] Unity.Jobs.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:34.722 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:34.749 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/16/2018 06:31:34.783 PM] Unity.Jobs.Editor.dll compilation finished in 60ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:34.795 PM] Unity.Jobs.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:34.832 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:31:34.877 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/16/2018 06:31:34.930 PM] Unity.Entities.Hybrid.dll compilation finished in 97ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:34.942 PM] Unity.Entities.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:35.352 PM] Unity.Transforms.dll compiling...
- (0,0): [10/16/2018 06:31:35.432 PM] Unity.Transforms.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.dll
- (0,0): [10/16/2018 06:31:35.456 PM] Unity.Entities.TestComponents.dll compiling...
- (0,0): [10/16/2018 06:31:35.500 PM] Unity.Entities.TestComponents.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.TestComponents.dll
- (0,0): [10/16/2018 06:31:35.503 PM] Unity.Transforms.dll compilation finished in 151ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:35.515 PM] Unity.Transforms.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:35.538 PM] Unity.Entities.TestComponents.dll compilation finished in 83ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:35.550 PM] Unity.Entities.TestComponents.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:36.634 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:31:36.703 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/16/2018 06:31:36.745 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/16/2018 06:31:36.767 PM] Unity.Rendering.Hybrid.dll compilation finished in 134ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:36.779 PM] Unity.Rendering.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:36.809 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.dll
- (0,0): [10/16/2018 06:31:36.839 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:31:36.873 PM] Unity.Entities.Properties.dll compilation finished in 127ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:36.879 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/16/2018 06:31:36.886 PM] Unity.Entities.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:36.916 PM] Unity.Transforms.Hybrid.dll compilation finished in 77ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:36.928 PM] Unity.Transforms.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:36.937 PM] Unity.Entities.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:37.101 PM] Unity.Entities.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Tests.dll
- (0,0): [10/16/2018 06:31:37.205 PM] Unity.Entities.Tests.dll compilation finished in 267ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:37.216 PM] Unity.Entities.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:37.453 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/16/2018 06:31:37.555 PM] Unity.Entities.Properties.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:37.555 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.dll
- (0,0): [10/16/2018 06:31:37.590 PM] Unity.Entities.Properties.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.Tests.dll
- (0,0): [10/16/2018 06:31:37.634 PM] Unity.Entities.Properties.Tests.dll compilation finished in 79ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:31:37.643 PM] Unity.Entities.Editor.dll compilation finished in 190ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:37.646 PM] Unity.Entities.Properties.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:37.655 PM] Unity.Entities.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:37.657 PM] Unity.Transforms.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:37.706 PM] Unity.Transforms.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Tests.dll
- (0,0): [10/16/2018 06:31:37.759 PM] Unity.Transforms.Tests.dll compilation finished in 101ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:37.763 PM] Unity.Entities.Hybrid.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:37.771 PM] Unity.Transforms.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:37.815 PM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.Tests.dll
- (0,0): [10/16/2018 06:31:37.865 PM] Unity.Entities.Hybrid.Tests.dll compilation finished in 101ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:37.877 PM] Unity.Entities.Hybrid.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:41.329 PM] Unity.Entities.Editor.Tests.dll compiling...
- (0,0): [10/16/2018 06:31:41.375 PM] Unity.Entities.Editor.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.Tests.dll
- (0,0): [10/16/2018 06:31:41.424 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/16/2018 06:31:41.429 PM] Unity.Entities.Editor.Tests.dll compilation finished in 100ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:31:41.441 PM] Unity.Entities.Editor.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:31:41.455 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [10/16/2018 06:31:41.488 PM] Assembly-CSharp.dll compilation finished in 63ms  source files re-parsed: 0 metadata reloaded: 9
- (0,0): [10/16/2018 06:31:41.500 PM] Assembly-CSharp.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:17.846 PM] Unity.TextMeshPro.dll compiling...
- (0,0): [10/16/2018 06:33:17.914 PM] Unity.Mathematics.dll compiling...
- (0,0): [10/16/2018 06:33:18.013 PM] Unity.Properties.dll compiling...
- (0,0): [10/16/2018 06:33:18.132 PM] Unity.Burst.dll compiling...
- (0,0): [10/16/2018 06:33:18.220 PM] Unity.Burst.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.dll
- (0,0): [10/16/2018 06:33:18.230 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [10/16/2018 06:33:18.264 PM] Unity.Burst.dll compilation finished in 132ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:18.278 PM] Unity.Burst.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:18.409 PM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:33:18.436 PM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [10/16/2018 06:33:18.565 PM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.dll
- (0,0): [10/16/2018 06:33:18.640 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [10/16/2018 06:33:18.703 PM] Unity.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.dll
- (0,0): [10/16/2018 06:33:18.801 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 571ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:18.824 PM] Unity.Properties.dll compilation finished in 811ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:18.861 PM] Unity.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:18.869 PM] Unity.TextMeshPro.dll compilation finished in 1023ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:18.837 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:18.881 PM] Unity.TextMeshPro.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:18.885 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [10/16/2018 06:33:19.028 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.Editor.dll
- (0,0): [10/16/2018 06:33:19.209 PM] Unity.Burst.Editor.dll compilation finished in 323ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:19.221 PM] Unity.Burst.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:19.443 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [10/16/2018 06:33:19.459 PM] Unity.Postprocessing.Runtime.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Postprocessing.Runtime.dll
- (0,0): [10/16/2018 06:33:19.543 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [10/16/2018 06:33:19.799 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Codegen.dll
- (0,0): [10/16/2018 06:33:19.836 PM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Editor.dll
- (0,0): [10/16/2018 06:33:19.881 PM] Unity.Properties.Codegen.dll compilation finished in 338ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:19.881 PM] Unity.Postprocessing.Runtime.dll compilation finished in 1445ms  source files re-parsed: 56 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:19.895 PM] Unity.Properties.Codegen.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:19.934 PM] Unity.TextMeshPro.Editor.dll compiling...
- (0,0): [10/16/2018 06:33:19.946 PM] Unity.Properties.Editor.dll compilation finished in 503ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:19.958 PM] Unity.Properties.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:20.222 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.Editor.dll
- (0,0): [10/16/2018 06:33:20.312 PM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:33:20.324 PM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [10/16/2018 06:33:20.475 PM] Unity.TextMeshPro.Editor.dll compilation finished in 540ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:20.487 PM] Unity.TextMeshPro.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:20.532 PM] Unity.Postprocessing.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Postprocessing.Editor.dll
- (0,0): [10/16/2018 06:33:20.647 PM] Unity.Postprocessing.Editor.dll compilation finished in 323ms  source files re-parsed: 35 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:20.770 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.dll
- (0,0): [10/16/2018 06:33:20.847 PM] Unity.Mathematics.dll compilation finished in 2932ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:20.859 PM] Unity.Mathematics.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:21.100 PM] Unity.Collections.dll compiling...
- (0,0): [10/16/2018 06:33:21.156 PM] Unity.Collections.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.dll
- (0,0): [10/16/2018 06:33:21.203 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [10/16/2018 06:33:21.222 PM] Unity.Collections.dll compilation finished in 122ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:21.234 PM] Unity.Collections.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:21.250 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.Editor.dll
- (0,0): [10/16/2018 06:33:21.295 PM] Unity.Mathematics.Editor.dll compilation finished in 92ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:21.307 PM] Unity.Mathematics.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:21.528 PM] Unity.Entities.dll compiling...
- (0,0): [10/16/2018 06:33:21.661 PM] Unity.Jobs.dll compiling...
- (0,0): [10/16/2018 06:33:21.732 PM] Unity.Jobs.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.dll
- (0,0): [10/16/2018 06:33:21.755 PM] Unity.Collections.Tests.dll compiling...
- (0,0): [10/16/2018 06:33:21.768 PM] Unity.Jobs.dll compilation finished in 106ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:21.782 PM] Unity.Jobs.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:21.793 PM] Unity.Entities.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.dll
- (0,0): [10/16/2018 06:33:21.836 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.Tests.dll
- (0,0): [10/16/2018 06:33:21.895 PM] Unity.Entities.dll compilation finished in 367ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:21.907 PM] Unity.Entities.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:21.919 PM] Unity.Collections.Tests.dll compilation finished in 164ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:21.931 PM] Unity.Collections.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:22.055 PM] Unity.Jobs.Tests.dll compiling...
- (0,0): [10/16/2018 06:33:22.102 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Tests.dll
- (0,0): [10/16/2018 06:33:22.147 PM] Unity.Jobs.Tests.dll compilation finished in 93ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:22.159 PM] Unity.Jobs.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:22.168 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [10/16/2018 06:33:22.198 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Editor.dll
- (0,0): [10/16/2018 06:33:22.228 PM] Unity.Jobs.Editor.dll compilation finished in 59ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:22.240 PM] Unity.Jobs.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:22.256 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:33:22.295 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.dll
- (0,0): [10/16/2018 06:33:22.346 PM] Unity.Entities.Hybrid.dll compilation finished in 90ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:22.358 PM] Unity.Entities.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:22.768 PM] Unity.Transforms.dll compiling...
- (0,0): [10/16/2018 06:33:22.862 PM] Unity.Entities.TestComponents.dll compiling...
- (0,0): [10/16/2018 06:33:22.864 PM] Unity.Transforms.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.dll
- (0,0): [10/16/2018 06:33:22.892 PM] Unity.Entities.TestComponents.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.TestComponents.dll
- (0,0): [10/16/2018 06:33:22.925 PM] Unity.Entities.TestComponents.dll compilation finished in 63ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:22.926 PM] Unity.Transforms.dll compilation finished in 158ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:22.946 PM] Unity.Entities.TestComponents.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:22.958 PM] Unity.Transforms.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:23.407 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:33:23.471 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [10/16/2018 06:33:23.504 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [10/16/2018 06:33:23.525 PM] Unity.Rendering.Hybrid.dll compilation finished in 118ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:23.537 PM] Unity.Rendering.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:23.547 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.dll
- (0,0): [10/16/2018 06:33:23.597 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [10/16/2018 06:33:23.619 PM] Unity.Entities.Properties.dll compilation finished in 115ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:23.628 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [10/16/2018 06:33:23.631 PM] Unity.Entities.Properties.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:23.671 PM] Unity.Transforms.Hybrid.dll compilation finished in 73ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:23.683 PM] Unity.Transforms.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:23.687 PM] Unity.Entities.Tests.dll compiling...
- (0,0): [10/16/2018 06:33:23.863 PM] Unity.Entities.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Tests.dll
- (0,0): [10/16/2018 06:33:23.979 PM] Unity.Entities.Tests.dll compilation finished in 292ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:23.992 PM] Unity.Entities.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:24.208 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [10/16/2018 06:33:24.309 PM] Unity.Entities.Properties.Tests.dll compiling...
- (0,0): [10/16/2018 06:33:24.314 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.dll
- (0,0): [10/16/2018 06:33:24.357 PM] Unity.Entities.Properties.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.Tests.dll
- (0,0): [10/16/2018 06:33:24.392 PM] Unity.Entities.Properties.Tests.dll compilation finished in 82ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:24.404 PM] Unity.Entities.Properties.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:24.415 PM] Unity.Entities.Hybrid.Tests.dll compiling...
- (0,0): [10/16/2018 06:33:24.416 PM] Unity.Entities.Editor.dll compilation finished in 207ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:24.428 PM] Unity.Entities.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:24.465 PM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.Tests.dll
- (0,0): [10/16/2018 06:33:24.514 PM] Unity.Transforms.Tests.dll compiling...
- (0,0): [10/16/2018 06:33:24.530 PM] Unity.Entities.Hybrid.Tests.dll compilation finished in 114ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [10/16/2018 06:33:24.541 PM] Unity.Entities.Hybrid.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:24.568 PM] Unity.Transforms.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Tests.dll
- (0,0): [10/16/2018 06:33:24.615 PM] Unity.Transforms.Tests.dll compilation finished in 101ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [10/16/2018 06:33:24.627 PM] Unity.Transforms.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:24.658 PM] Unity.Entities.Editor.Tests.dll compiling...
- (0,0): [10/16/2018 06:33:24.702 PM] Unity.Entities.Editor.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.Tests.dll
- (0,0): [10/16/2018 06:33:24.752 PM] Unity.Entities.Editor.Tests.dll compilation finished in 93ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [10/16/2018 06:33:24.765 PM] Unity.Entities.Editor.Tests.dll: compilation was cached, 0 file(s) were found to have changed.
- (0,0): [10/16/2018 06:33:24.985 PM] Assembly-CSharp.dll: no prior compilation found in cache
- (0,0): [10/16/2018 06:33:24.997 PM] Assembly-CSharp.dll compiling...
- (0,0): [10/16/2018 06:33:25.043 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [10/16/2018 06:33:25.075 PM] Assembly-CSharp.dll compilation finished in 78ms  source files re-parsed: 11 metadata reloaded: 10
- (0,0): [10/16/2018 06:35:54.777 PM] Compiler cache size is now 17.16 MB
- (0,0): watchdog triggered an exit
+ (0,0): watchdog active on pid: 5444
+ (0,0): [10/21/2018 09:45:08.851 PM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:08.874 PM] Unity.Postprocessing.Runtime.dll compiling...
+ (0,0): [10/21/2018 09:45:08.892 PM] Unity.Burst.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:08.918 PM] Unity.Burst.dll compiling...
+ (0,0): [10/21/2018 09:45:08.922 PM] Unity.TextMeshPro.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:08.951 PM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10/21/2018 09:45:09.244 PM] Unity.Mathematics.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:09.245 PM] Unity.Properties.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:09.256 PM] Unity.Mathematics.dll compiling...
+ (0,0): [10/21/2018 09:45:09.259 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:09.281 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10/21/2018 09:45:09.284 PM] Unity.Properties.dll compiling...
+ (0,0): [10/21/2018 09:45:12.890 PM] Unity.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.dll
+ (0,0): [10/21/2018 09:45:12.893 PM] Unity.Burst.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.dll
+ (0,0): [10/21/2018 09:45:12.924 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10/21/2018 09:45:12.924 PM] Unity.Postprocessing.Runtime.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Postprocessing.Runtime.dll
+ (0,0): [10/21/2018 09:45:12.999 PM] Unity.Burst.dll compilation finished in 4082ms  source files re-parsed: 2 metadata reloaded: 155
+ (0,0): [10/21/2018 09:45:13.032 PM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.dll
+ (0,0): [10/21/2018 09:45:13.077 PM] Unity.Properties.dll compilation finished in 3793ms  source files re-parsed: 34 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:13.089 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 3805ms  source files re-parsed: 44 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:13.162 PM] Unity.Postprocessing.Runtime.dll compilation finished in 4287ms  source files re-parsed: 56 metadata reloaded: 182
+ (0,0): [10/21/2018 09:45:13.207 PM] Unity.TextMeshPro.dll compilation finished in 4255ms  source files re-parsed: 45 metadata reloaded: 67
+ (0,0): [10/21/2018 09:45:14.176 PM] Unity.Properties.Editor.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:14.202 PM] Unity.Properties.Editor.dll compiling...
+ (0,0): [10/21/2018 09:45:14.338 PM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:14.375 PM] Unity.Postprocessing.Editor.dll compiling...
+ (0,0): [10/21/2018 09:45:14.422 PM] Unity.Properties.Codegen.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:14.444 PM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [10/21/2018 09:45:14.534 PM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Editor.dll
+ (0,0): [10/21/2018 09:45:14.537 PM] Unity.Burst.Editor.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:14.561 PM] Unity.Burst.Editor.dll compiling...
+ (0,0): [10/21/2018 09:45:14.621 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Codegen.dll
+ (0,0): [10/21/2018 09:45:14.680 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.dll
+ (0,0): [10/21/2018 09:45:14.714 PM] Unity.Properties.Editor.dll compilation finished in 513ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:14.714 PM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:14.740 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.Editor.dll
+ (0,0): [10/21/2018 09:45:14.748 PM] Unity.Properties.Codegen.dll compilation finished in 304ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:14.750 PM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10/21/2018 09:45:14.753 PM] Unity.Postprocessing.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Postprocessing.Editor.dll
+ (0,0): [10/21/2018 09:45:14.828 PM] Unity.Mathematics.dll compilation finished in 5572ms  source files re-parsed: 81 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:14.897 PM] Unity.Burst.Editor.dll compilation finished in 336ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:15.075 PM] Unity.Postprocessing.Editor.dll compilation finished in 698ms  source files re-parsed: 35 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:15.142 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10/21/2018 09:45:15.277 PM] Unity.Collections.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:15.299 PM] Unity.Collections.dll compiling...
+ (0,0): [10/21/2018 09:45:15.538 PM] Unity.TextMeshPro.Editor.dll compilation finished in 788ms  source files re-parsed: 39 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:15.546 PM] Unity.Mathematics.Editor.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:15.548 PM] Unity.Collections.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.dll
+ (0,0): [10/21/2018 09:45:15.565 PM] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [10/21/2018 09:45:15.626 PM] Unity.Collections.dll compilation finished in 330ms  source files re-parsed: 11 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:15.641 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.Editor.dll
+ (0,0): [10/21/2018 09:45:15.746 PM] Unity.Mathematics.Editor.dll compilation finished in 181ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:16.229 PM] Unity.Entities.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:16.255 PM] Unity.Entities.dll compiling...
+ (0,0): [10/21/2018 09:45:16.418 PM] Unity.Jobs.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:16.506 PM] Unity.Jobs.dll compiling...
+ (0,0): [10/21/2018 09:45:16.856 PM] Unity.Collections.Tests.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:16.860 PM] Unity.Jobs.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.dll
+ (0,0): [10/21/2018 09:45:16.887 PM] Unity.Collections.Tests.dll compiling...
+ (0,0): [10/21/2018 09:45:16.935 PM] Unity.Jobs.dll compilation finished in 428ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:17.041 PM] Unity.Entities.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.dll
+ (0,0): [10/21/2018 09:45:17.150 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.Tests.dll
+ (0,0): [10/21/2018 09:45:17.255 PM] Unity.Entities.dll compilation finished in 1003ms  source files re-parsed: 57 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:17.265 PM] Unity.Collections.Tests.dll compilation finished in 372ms  source files re-parsed: 16 metadata reloaded: 3
+ (0,0): [10/21/2018 09:45:17.661 PM] Unity.Jobs.Tests.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:17.677 PM] Unity.Jobs.Tests.dll compiling...
+ (0,0): [10/21/2018 09:45:17.782 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Tests.dll
+ (0,0): [10/21/2018 09:45:17.788 PM] Unity.Jobs.Editor.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:17.806 PM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [10/21/2018 09:45:17.867 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Editor.dll
+ (0,0): [10/21/2018 09:45:17.870 PM] Unity.Jobs.Tests.dll compilation finished in 197ms  source files re-parsed: 2 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:17.954 PM] Unity.Jobs.Editor.dll compilation finished in 152ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:18.095 PM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:18.115 PM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [10/21/2018 09:45:18.286 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [10/21/2018 09:45:18.418 PM] Unity.Entities.Hybrid.dll compilation finished in 303ms  source files re-parsed: 11 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:19.135 PM] Unity.Transforms.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:19.155 PM] Unity.Transforms.dll compiling...
+ (0,0): [10/21/2018 09:45:19.318 PM] Unity.Entities.TestComponents.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:19.385 PM] Unity.Entities.TestComponents.dll compiling...
+ (0,0): [10/21/2018 09:45:19.396 PM] Unity.Transforms.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.dll
+ (0,0): [10/21/2018 09:45:19.435 PM] Unity.Entities.TestComponents.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.TestComponents.dll
+ (0,0): [10/21/2018 09:45:19.494 PM] Unity.Entities.TestComponents.dll compilation finished in 109ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:19.496 PM] Unity.Transforms.dll compilation finished in 344ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:20.300 PM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:20.326 PM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [10/21/2018 09:45:20.407 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [10/21/2018 09:45:20.411 PM] Unity.Entities.Properties.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:20.434 PM] Unity.Entities.Properties.dll compiling...
+ (0,0): [10/21/2018 09:45:20.618 PM] Unity.Rendering.Hybrid.dll compilation finished in 294ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:20.653 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.dll
+ (0,0): [10/21/2018 09:45:20.656 PM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:20.683 PM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [10/21/2018 09:45:20.768 PM] Unity.Entities.Tests.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:20.799 PM] Unity.Entities.Tests.dll compiling...
+ (0,0): [10/21/2018 09:45:20.806 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [10/21/2018 09:45:20.854 PM] Unity.Entities.Properties.dll compilation finished in 420ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:20.925 PM] Unity.Transforms.Hybrid.dll compilation finished in 245ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:21.263 PM] Unity.Entities.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Tests.dll
+ (0,0): [10/21/2018 09:45:21.478 PM] Unity.Entities.Tests.dll compilation finished in 679ms  source files re-parsed: 40 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:21.677 PM] Unity.Entities.Editor.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:21.694 PM] Unity.Entities.Editor.dll compiling...
+ (0,0): [10/21/2018 09:45:21.775 PM] Unity.Entities.Properties.Tests.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:21.806 PM] Unity.Entities.Properties.Tests.dll compiling...
+ (0,0): [10/21/2018 09:45:21.828 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.dll
+ (0,0): [10/21/2018 09:45:21.854 PM] Unity.Entities.Properties.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.Tests.dll
+ (0,0): [10/21/2018 09:45:21.894 PM] Unity.Entities.Properties.Tests.dll compilation finished in 88ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/21/2018 09:45:21.914 PM] Unity.Entities.Editor.dll compilation finished in 228ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:21.928 PM] Unity.Transforms.Tests.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:21.944 PM] Unity.Transforms.Tests.dll compiling...
+ (0,0): [10/21/2018 09:45:22.129 PM] Unity.Transforms.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Tests.dll
+ (0,0): [10/21/2018 09:45:22.148 PM] Unity.Entities.Hybrid.Tests.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:22.165 PM] Unity.Entities.Hybrid.Tests.dll compiling...
+ (0,0): [10/21/2018 09:45:22.309 PM] Unity.Transforms.Tests.dll compilation finished in 364ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:22.318 PM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.Tests.dll
+ (0,0): [10/21/2018 09:45:22.396 PM] Unity.Entities.Hybrid.Tests.dll compilation finished in 232ms  source files re-parsed: 8 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:22.645 PM] Unity.Entities.Editor.Tests.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:22.667 PM] Unity.Entities.Editor.Tests.dll compiling...
+ (0,0): [10/21/2018 09:45:22.764 PM] Unity.Entities.Editor.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.Tests.dll
+ (0,0): [10/21/2018 09:45:22.877 PM] Unity.Entities.Editor.Tests.dll compilation finished in 215ms  source files re-parsed: 4 metadata reloaded: 1
+ (0,0): [10/21/2018 09:45:23.037 PM] Assembly-CSharp.dll: no prior compilation found in cache
+ (0,0): [10/21/2018 09:45:23.064 PM] Assembly-CSharp.dll compiling...
+ (0,0): [10/21/2018 09:45:23.145 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [10/21/2018 09:45:23.227 PM] Assembly-CSharp.dll compilation finished in 167ms  source files re-parsed: 11 metadata reloaded: 10
+ (0,0): [10/21/2018 11:24:06.213 PM] Compiler cache size is now 17.16 MB
+ (0,0): [10/22/2018 01:46:49.519 AM] Assembly-CSharp.dll compiling...
+ (0,0): [10/22/2018 01:46:49.635 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [10/22/2018 01:46:49.706 AM] Assembly-CSharp.dll compilation finished in 187ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/22/2018 01:46:49.719 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed.

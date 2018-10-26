@@ -5,28 +5,6 @@
 -out:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
 -nostdlib
 -unsafe
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Properties.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Properties.Codegen.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Jobs.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Jobs.Editor.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Editor.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Properties.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Collections.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Burst.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Properties.Editor.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Mathematics.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Transforms.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Burst.Editor.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.TextMeshPro.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll"
@@ -89,6 +67,28 @@
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEditor.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/Unity.Locator.dll"
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Properties.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Properties.Codegen.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Jobs.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Jobs.Editor.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Editor.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Properties.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Collections.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Burst.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Properties.Editor.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Mathematics.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Transforms.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Burst.Editor.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"

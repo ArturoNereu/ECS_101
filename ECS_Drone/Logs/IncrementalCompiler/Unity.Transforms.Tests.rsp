@@ -7,6 +7,7 @@
 -unsafe
 -r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Transforms.dll
 -r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll
 -r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Tests.dll
 -r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Collections.dll
 -r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Burst.dll
@@ -95,7 +96,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll"
--r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/System.Runtime.CompilerServices.Unsafe.dll
+-r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/System.Runtime.CompilerServices.Unsafe.dll
 -r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.dll
 -r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Mdb.dll
 -r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Pdb.dll
@@ -315,5 +316,5 @@
 -d:ENABLE_VSTU
 -d:UNITY_PRO_LICENSE
 -d:UNITY_POST_PROCESSING_STACK_V2
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.15/Unity.Transforms.Tests/TransformTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms.Tests/TransformTests.cs
 -v:0

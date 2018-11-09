@@ -2,15 +2,15 @@
 -target:library
 -nowarn:0169
 -langversion:7
--out:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Temp/Unity.Transforms.dll
+-out:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Temp/Unity.Transforms.Editor.dll
 -nostdlib
 -unsafe
 -r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Editor.dll
 -r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Collections.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Burst.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Jobs.dll
 -r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Mathematics.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Transforms.dll
+-r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll"
@@ -44,6 +44,7 @@
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.10f1\Editor\Data\Managed/UnityEngine/UnityEngine.StreamingModule.dll"
@@ -310,13 +311,5 @@
 -d:ENABLE_VSTU
 -d:UNITY_PRO_LICENSE
 -d:UNITY_POST_PROCESSING_STACK_V2
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms/AttachComponent.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms/AttachedComponent.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms/FrozenComponent.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms/LocalToWorldComponent.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms/PositionComponent.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms/RotationComponent.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms/ScaleComponent.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms/StaticComponent.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms/TransformSystem.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Transforms.Editor/TransformComponentEditors.cs
 -v:0

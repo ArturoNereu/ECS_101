@@ -89,7 +89,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll"
--r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/System.Runtime.CompilerServices.Unsafe.dll
+-r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/System.Runtime.CompilerServices.Unsafe.dll
 -r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.dll
 -r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Mdb.dll
 -r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Pdb.dll
@@ -309,20 +309,21 @@
 -d:ENABLE_VSTU
 -d:UNITY_PRO_LICENSE
 -d:UNITY_POST_PROCESSING_STACK_V2
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeArraySOATests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeArraySortTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeContainerTests_ValidateTypes.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeContainerTests_ValidateTypes_JobDebugger.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeContainerTests_ValidateTypesFixture.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeHashMapTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeHashMapTests_InJobs.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeHashMapTests_NativeChecks.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeHashMapTestsFixture.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeListTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeListTests_JobDebugger.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeMultiHashMapTests_InJobs.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeMultiHashMapTests_JobDebugger.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeMultiHashMapTestsFixture.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeQueueTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/Unity.Collections.Tests/NativeQueueTests_InJobs.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeArraySOATests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeArraySortTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeContainerTests_ValidateTypes.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeContainerTests_ValidateTypes_JobDebugger.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeContainerTests_ValidateTypesFixture.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeHashMapTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeHashMapTests_InJobs.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeHashMapTests_NativeChecks.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeHashMapTestsFixture.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeListTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeListTests_JobDebugger.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeMultiHashMapTests_InJobs.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeMultiHashMapTests_JobDebugger.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeMultiHashMapTestsFixture.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeQueueTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/NativeQueueTests_InJobs.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/Unity.Collections.Tests/ResizableArrayTests.cs
 -v:0

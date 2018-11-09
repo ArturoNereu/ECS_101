@@ -94,7 +94,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.10f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll"
--r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.6/System.Runtime.CompilerServices.Unsafe.dll
+-r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/System.Runtime.CompilerServices.Unsafe.dll
 -r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.dll
 -r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Mdb.dll
 -r:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Pdb.dll
@@ -314,12 +314,12 @@
 -d:ENABLE_VSTU
 -d:UNITY_PRO_LICENSE
 -d:UNITY_POST_PROCESSING_STACK_V2
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.15/Unity.Entities.Hybrid.Tests/ComponentDataWrapperTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.15/Unity.Entities.Hybrid.Tests/ComponentGroupTransformAccessArrayTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.15/Unity.Entities.Hybrid.Tests/DefaultWorldInitializationTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.15/Unity.Entities.Hybrid.Tests/GameObjectEntityTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.15/Unity.Entities.Hybrid.Tests/Runtime/EntityManagerTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.15/Unity.Entities.Hybrid.Tests/Runtime/GameObjectEntityTests.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.15/Unity.Entities.Hybrid.Tests/Runtime/InjectComponentGroupTestsHybrid.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.15/Unity.Entities.Hybrid.Tests/Runtime/SharedComponentSerializeTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Entities.Hybrid.Tests/ComponentDataWrapperTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Entities.Hybrid.Tests/ComponentGroupTransformAccessArrayTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Entities.Hybrid.Tests/DefaultWorldInitializationTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Entities.Hybrid.Tests/GameObjectEntityTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Entities.Hybrid.Tests/Runtime/EntityManagerTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Entities.Hybrid.Tests/Runtime/GameObjectEntityTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Entities.Hybrid.Tests/Runtime/InjectComponentGroupTestsHybrid.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.19/Unity.Entities.Hybrid.Tests/Runtime/SharedComponentSerializeTests.cs
 -v:0

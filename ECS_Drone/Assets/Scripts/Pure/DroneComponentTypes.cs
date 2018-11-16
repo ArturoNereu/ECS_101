@@ -3,15 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using Unity.Entities;
 
-public struct DroneComponent : IComponentData
+namespace Drone.Pure
 {
-    public float movementSpeed;
+    public struct MoveSpeed : IComponentData
+    {
+        public float speed;
+    }
 }
-
-public struct HelixComponent : IComponentData
-{
-    public float rotationSpeed;
-}
-
-public struct Drone : IComponentData { }
-public struct Helix : IComponentData { }

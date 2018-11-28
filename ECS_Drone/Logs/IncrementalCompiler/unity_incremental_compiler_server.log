@@ -1,264 +1,284 @@
- (0,0): [11/16/2018 07:48:45.384 PM] Unity incremental compiler server
- (0,0): [11/16/2018 07:48:45.550 PM] watchdog active on pid: 23932
- (0,0): [11/16/2018 07:49:01.538 PM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:01.554 PM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [11/16/2018 07:49:01.612 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:01.624 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [11/16/2018 07:49:01.899 PM] Unity.Mathematics.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:01.905 PM] Unity.Properties.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:01.912 PM] Unity.Mathematics.dll compiling...
- (0,0): [11/16/2018 07:49:01.905 PM] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:01.930 PM] Unity.Burst.dll compiling...
- (0,0): [11/16/2018 07:49:01.918 PM] Unity.Properties.dll compiling...
- (0,0): [11/16/2018 07:49:05.040 PM] Unity.Burst.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.dll
- (0,0): [11/16/2018 07:49:05.041 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [11/16/2018 07:49:05.041 PM] Unity.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.dll
- (0,0): [11/16/2018 07:49:05.041 PM] Unity.Postprocessing.Runtime.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Postprocessing.Runtime.dll
- (0,0): [11/16/2018 07:49:05.172 PM] Unity.Burst.dll compilation finished in 3242ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:05.175 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 3552ms  source files re-parsed: 44 metadata reloaded: 198
- (0,0): [11/16/2018 07:49:05.173 PM] Unity.Properties.dll compilation finished in 3255ms  source files re-parsed: 34 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:05.185 PM] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:05.187 PM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:05.203 PM] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:05.269 PM] Unity.Postprocessing.Runtime.dll compilation finished in 3714ms  source files re-parsed: 56 metadata reloaded: 163
- (0,0): [11/16/2018 07:49:05.281 PM] Unity.Postprocessing.Runtime.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:05.899 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.dll
- (0,0): [11/16/2018 07:49:06.001 PM] Unity.Properties.Editor.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.014 PM] Unity.Properties.Editor.dll compiling...
- (0,0): [11/16/2018 07:49:06.115 PM] Unity.Mathematics.dll compilation finished in 4203ms  source files re-parsed: 82 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:06.140 PM] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.141 PM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.152 PM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [11/16/2018 07:49:06.257 PM] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.269 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [11/16/2018 07:49:06.273 PM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Editor.dll
- (0,0): [11/16/2018 07:49:06.412 PM] Unity.Properties.Codegen.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.425 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [11/16/2018 07:49:06.476 PM] Unity.Properties.Editor.dll compilation finished in 462ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:06.489 PM] Unity.Properties.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.499 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.Editor.dll
- (0,0): [11/16/2018 07:49:06.525 PM] Unity.Postprocessing.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Postprocessing.Editor.dll
- (0,0): [11/16/2018 07:49:06.548 PM] Unity.Collections.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.555 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Codegen.dll
- (0,0): [11/16/2018 07:49:06.561 PM] Unity.Collections.dll compiling...
- (0,0): [11/16/2018 07:49:06.648 PM] Unity.Burst.Editor.dll compilation finished in 379ms  source files re-parsed: 10 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:06.664 PM] Unity.Mathematics.Editor.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.707 PM] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.716 PM] Unity.Properties.Codegen.dll compilation finished in 290ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:06.725 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [11/16/2018 07:49:06.729 PM] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.757 PM] Unity.Collections.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.dll
- (0,0): [11/16/2018 07:49:06.782 PM] Unity.Postprocessing.Editor.dll compilation finished in 629ms  source files re-parsed: 35 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:06.790 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.Editor.dll
- (0,0): [11/16/2018 07:49:06.794 PM] Unity.Postprocessing.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.825 PM] Unity.Collections.dll compilation finished in 263ms  source files re-parsed: 12 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:06.837 PM] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:06.843 PM] Unity.Mathematics.Editor.dll compilation finished in 118ms  source files re-parsed: 4 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:06.855 PM] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:07.144 PM] Unity.Entities.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:07.166 PM] Unity.Entities.dll compiling...
- (0,0): [11/16/2018 07:49:07.279 PM] Unity.Jobs.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:07.314 PM] Unity.Jobs.dll compiling...
- (0,0): [11/16/2018 07:49:07.462 PM] Unity.Collections.Tests.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:07.473 PM] Unity.Collections.Tests.dll compiling...
- (0,0): [11/16/2018 07:49:07.486 PM] Unity.Jobs.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.dll
- (0,0): [11/16/2018 07:49:07.545 PM] Unity.Jobs.dll compilation finished in 232ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:07.561 PM] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:07.571 PM] Unity.Entities.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.dll
- (0,0): [11/16/2018 07:49:07.609 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.Tests.dll
- (0,0): [11/16/2018 07:49:07.683 PM] Unity.Collections.Tests.dll compilation finished in 209ms  source files re-parsed: 17 metadata reloaded: 3
- (0,0): [11/16/2018 07:49:07.696 PM] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:07.704 PM] Unity.Entities.dll compilation finished in 538ms  source files re-parsed: 58 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:07.717 PM] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.094 PM] Unity.Entities.Hybrid.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.106 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [11/16/2018 07:49:08.157 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.dll
- (0,0): [11/16/2018 07:49:08.185 PM] Unity.Jobs.Tests.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.197 PM] Unity.Jobs.Tests.dll compiling...
- (0,0): [11/16/2018 07:49:08.218 PM] Unity.Entities.Hybrid.dll compilation finished in 113ms  source files re-parsed: 12 metadata reloaded: 2
- (0,0): [11/16/2018 07:49:08.231 PM] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.236 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Tests.dll
- (0,0): [11/16/2018 07:49:08.294 PM] Unity.Jobs.Tests.dll compilation finished in 97ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:08.303 PM] Unity.Jobs.Editor.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.306 PM] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.316 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [11/16/2018 07:49:08.349 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Editor.dll
- (0,0): [11/16/2018 07:49:08.381 PM] Unity.Jobs.Editor.dll compilation finished in 65ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:08.393 PM] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.599 PM] Unity.Transforms.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.612 PM] Unity.Transforms.dll compiling...
- (0,0): [11/16/2018 07:49:08.720 PM] Unity.Transforms.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.dll
- (0,0): [11/16/2018 07:49:08.723 PM] Unity.Entities.TestComponents.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.735 PM] Unity.Entities.TestComponents.dll compiling...
- (0,0): [11/16/2018 07:49:08.766 PM] Unity.Entities.TestComponents.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.TestComponents.dll
- (0,0): [11/16/2018 07:49:08.779 PM] Unity.Transforms.dll compilation finished in 166ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:08.790 PM] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:08.796 PM] Unity.Entities.TestComponents.dll compilation finished in 62ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:08.808 PM] Unity.Entities.TestComponents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.257 PM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.269 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [11/16/2018 07:49:09.334 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [11/16/2018 07:49:09.357 PM] Unity.Entities.Properties.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.370 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [11/16/2018 07:49:09.411 PM] Unity.Rendering.Hybrid.dll compilation finished in 141ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:09.425 PM] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.428 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.dll
- (0,0): [11/16/2018 07:49:09.454 PM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.466 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [11/16/2018 07:49:09.488 PM] Unity.Entities.Properties.dll compilation finished in 118ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:09.500 PM] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.500 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [11/16/2018 07:49:09.560 PM] Unity.Transforms.Hybrid.dll compilation finished in 94ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:09.567 PM] Unity.Entities.Tests.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.572 PM] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.579 PM] Unity.Entities.Tests.dll compiling...
- (0,0): [11/16/2018 07:49:09.804 PM] Unity.Entities.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Tests.dll
- (0,0): [11/16/2018 07:49:09.949 PM] Unity.Entities.Tests.dll compilation finished in 370ms  source files re-parsed: 41 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:09.961 PM] Unity.Entities.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.966 PM] Unity.Entities.Editor.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:09.978 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [11/16/2018 07:49:10.105 PM] Unity.Entities.Properties.Tests.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.117 PM] Unity.Entities.Properties.Tests.dll compiling...
- (0,0): [11/16/2018 07:49:10.142 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.dll
- (0,0): [11/16/2018 07:49:10.159 PM] Unity.Entities.Properties.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.Tests.dll
- (0,0): [11/16/2018 07:49:10.194 PM] Unity.Entities.Properties.Tests.dll compilation finished in 77ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:10.218 PM] Unity.Entities.Properties.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.225 PM] Unity.Entities.Editor.dll compilation finished in 246ms  source files re-parsed: 25 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:10.237 PM] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.370 PM] Unity.Entities.Hybrid.Tests.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.382 PM] Unity.Entities.Hybrid.Tests.dll compiling...
- (0,0): [11/16/2018 07:49:10.442 PM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.Tests.dll
- (0,0): [11/16/2018 07:49:10.503 PM] Unity.Transforms.Tests.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.515 PM] Unity.Transforms.Tests.dll compiling...
- (0,0): [11/16/2018 07:49:10.516 PM] Unity.Entities.Hybrid.Tests.dll compilation finished in 134ms  source files re-parsed: 8 metadata reloaded: 2
- (0,0): [11/16/2018 07:49:10.528 PM] Unity.Entities.Hybrid.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.580 PM] Unity.Entities.Editor.Tests.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.581 PM] Unity.Transforms.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Tests.dll
- (0,0): [11/16/2018 07:49:10.593 PM] Unity.Entities.Editor.Tests.dll compiling...
- (0,0): [11/16/2018 07:49:10.648 PM] Unity.Transforms.Tests.dll compilation finished in 134ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 07:49:10.657 PM] Unity.Entities.Editor.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.Tests.dll
- (0,0): [11/16/2018 07:49:10.661 PM] Unity.Transforms.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.670 PM] Unity.Transforms.Editor.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.682 PM] Unity.Transforms.Editor.dll compiling...
- (0,0): [11/16/2018 07:49:10.712 PM] Unity.Transforms.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Editor.dll
- (0,0): [11/16/2018 07:49:10.712 PM] Unity.Entities.Editor.Tests.dll compilation finished in 120ms  source files re-parsed: 5 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:10.736 PM] Unity.Entities.Editor.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:10.745 PM] Unity.Transforms.Editor.dll compilation finished in 63ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [11/16/2018 07:49:10.757 PM] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:49:11.179 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 07:49:11.191 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 07:49:11.231 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 07:49:11.266 PM] Assembly-CSharp.dll compilation finished in 74ms  source files re-parsed: 11 metadata reloaded: 9
- (0,0): [11/16/2018 07:49:11.277 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 07:53:48.133 PM] Compiler cache size is now 16.70 MB
- (0,0): [11/16/2018 07:58:34.316 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 07:58:34.379 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 07:58:34.431 PM] Assembly-CSharp.dll compilation finished in 114ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 07:58:34.443 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 07:58:34.455 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 08:00:48.066 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 08:00:48.078 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 08:00:48.110 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 08:00:48.148 PM] Assembly-CSharp.dll compilation finished in 70ms  source files re-parsed: 12 metadata reloaded: 0
- (0,0): [11/16/2018 08:00:48.160 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 08:01:00.272 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 08:01:00.284 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 08:01:00.316 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 08:01:00.352 PM] Assembly-CSharp.dll compilation finished in 68ms  source files re-parsed: 12 metadata reloaded: 0
- (0,0): [11/16/2018 08:01:00.364 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 08:09:11.813 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 08:09:11.865 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 08:09:11.879 PM] Assembly-CSharp.dll compilation finished in 66ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 08:09:11.891 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 08:09:11.903 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 08:09:20.455 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 08:09:20.484 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 08:09:20.496 PM] Assembly-CSharp.dll compilation finished in 40ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 08:09:20.508 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 08:09:20.520 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 08:09:48.810 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 08:09:48.844 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 08:09:48.890 PM] Assembly-CSharp.dll compilation finished in 80ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 08:09:48.902 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 08:09:48.914 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 08:30:39.523 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 08:30:39.559 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 08:30:39.595 PM] Assembly-CSharp.dll compilation finished in 72ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 08:30:39.607 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 08:30:39.619 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 08:31:02.387 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 08:31:02.427 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 08:31:02.466 PM] Assembly-CSharp.dll compilation finished in 79ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 08:31:02.478 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 08:31:02.490 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 08:41:27.644 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 08:41:27.677 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 08:41:27.720 PM] Assembly-CSharp.dll compilation finished in 77ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 08:41:27.732 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 08:41:27.744 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 08:42:00.311 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 08:42:00.345 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 08:42:00.383 PM] Assembly-CSharp.dll compilation finished in 71ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 08:42:00.395 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 08:42:00.407 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 09:17:54.166 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 09:17:54.208 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 09:17:54.247 PM] Assembly-CSharp.dll compilation finished in 80ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [11/16/2018 09:17:54.259 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 09:17:54.271 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 09:25:01.157 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 09:25:01.198 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 09:25:01.244 PM] Assembly-CSharp.dll compilation finished in 86ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 09:25:01.256 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 09:25:01.268 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 09:32:41.708 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 09:32:41.746 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 09:32:41.787 PM] Assembly-CSharp.dll compilation finished in 78ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 09:32:41.799 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 09:32:41.811 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 09:35:19.525 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 09:35:19.563 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 09:35:19.603 PM] Assembly-CSharp.dll compilation finished in 78ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 09:35:19.615 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 09:35:19.627 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 09:36:30.838 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 09:36:30.871 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 09:36:30.910 PM] Assembly-CSharp.dll compilation finished in 71ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 09:36:30.922 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 09:36:30.934 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 09:37:20.988 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 09:37:21.030 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 09:37:21.070 PM] Assembly-CSharp.dll compilation finished in 82ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 09:37:21.082 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 09:37:21.094 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 09:44:21.169 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 23932
- (0,0): [11/16/2018 09:44:21.182 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 09:44:21.229 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 09:44:21.274 PM] Assembly-CSharp.dll compilation finished in 93ms  source files re-parsed: 13 metadata reloaded: 0
- (0,0): [11/16/2018 09:44:21.286 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 09:51:12.064 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 09:51:12.108 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 09:51:12.123 PM] Assembly-CSharp.dll compilation finished in 59ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 09:51:12.135 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 09:51:12.147 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 09:58:44.279 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 09:58:44.313 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 09:58:44.326 PM] Assembly-CSharp.dll compilation finished in 46ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 09:58:44.338 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 09:58:44.350 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 10:02:48.330 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 10:02:48.369 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 10:02:48.430 PM] Assembly-CSharp.dll compilation finished in 99ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [11/16/2018 10:02:48.443 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 10:02:48.455 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 10:10:52.710 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 10:10:52.752 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 10:10:52.769 PM] Assembly-CSharp.dll compilation finished in 58ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 10:10:52.781 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 10:10:52.793 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 10:13:51.174 PM] Assembly-CSharp.dll compiling...
- (0,0): [11/16/2018 10:13:51.217 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
- (0,0): [11/16/2018 10:13:51.276 PM] Assembly-CSharp.dll compilation finished in 101ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [11/16/2018 10:13:51.288 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 23932
- (0,0): [11/16/2018 10:13:51.300 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 23932
- (0,0): [11/16/2018 10:14:23.484 PM] watchdog triggered an exit
+ (0,0): [11/28/2018 03:47:10.957 AM] Unity incremental compiler server
+ (0,0): [11/28/2018 03:47:11.177 AM] watchdog active on pid: 32752
+ (0,0): [11/28/2018 03:47:28.952 AM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:28.968 AM] Unity.Postprocessing.Runtime.dll compiling...
+ (0,0): [11/28/2018 03:47:29.005 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:29.017 AM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [11/28/2018 03:47:29.281 AM] Unity.Mathematics.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:29.285 AM] Unity.Properties.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:29.287 AM] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:29.294 AM] Unity.Mathematics.dll compiling...
+ (0,0): [11/28/2018 03:47:29.297 AM] Unity.Properties.dll compiling...
+ (0,0): [11/28/2018 03:47:29.299 AM] Unity.Burst.dll compiling...
+ (0,0): [11/28/2018 03:47:32.121 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [11/28/2018 03:47:32.121 AM] Unity.Burst.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.dll
+ (0,0): [11/28/2018 03:47:32.121 AM] Unity.Postprocessing.Runtime.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Postprocessing.Runtime.dll
+ (0,0): [11/28/2018 03:47:32.228 AM] Unity.Burst.dll compilation finished in 2929ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:32.241 AM] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:32.261 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 3244ms  source files re-parsed: 44 metadata reloaded: 162
+ (0,0): [11/28/2018 03:47:32.281 AM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:32.438 AM] Unity.Postprocessing.Runtime.dll compilation finished in 3469ms  source files re-parsed: 56 metadata reloaded: 193
+ (0,0): [11/28/2018 03:47:32.469 AM] Unity.Postprocessing.Runtime.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:32.473 AM] Unity.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.dll
+ (0,0): [11/28/2018 03:47:32.547 AM] Unity.Properties.dll compilation finished in 3250ms  source files re-parsed: 34 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:32.566 AM] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:32.921 AM] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:32.933 AM] Unity.Burst.Editor.dll compiling...
+ (0,0): [11/28/2018 03:47:33.042 AM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Burst.Editor.dll
+ (0,0): [11/28/2018 03:47:33.148 AM] Unity.Burst.Editor.dll compilation finished in 216ms  source files re-parsed: 10 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:33.168 AM] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:33.227 AM] Unity.Properties.Editor.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:33.239 AM] Unity.Properties.Editor.dll compiling...
+ (0,0): [11/28/2018 03:47:33.339 AM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:33.343 AM] Unity.Mathematics.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.dll
+ (0,0): [11/28/2018 03:47:33.351 AM] Unity.Postprocessing.Editor.dll compiling...
+ (0,0): [11/28/2018 03:47:33.482 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:33.487 AM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Editor.dll
+ (0,0): [11/28/2018 03:47:33.495 AM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [11/28/2018 03:47:33.543 AM] Unity.Mathematics.dll compilation finished in 4248ms  source files re-parsed: 82 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:33.555 AM] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:33.610 AM] Unity.Postprocessing.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Postprocessing.Editor.dll
+ (0,0): [11/28/2018 03:47:33.612 AM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Properties.Codegen.dll
+ (0,0): [11/28/2018 03:47:33.631 AM] Unity.Properties.Editor.dll compilation finished in 392ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:33.643 AM] Unity.Properties.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:33.680 AM] Unity.Properties.Codegen.dll compilation finished in 184ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:33.692 AM] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:33.739 AM] Unity.Postprocessing.Editor.dll compilation finished in 388ms  source files re-parsed: 35 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:33.751 AM] Unity.Postprocessing.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:34.039 AM] Unity.Collections.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:34.051 AM] Unity.Collections.dll compiling...
+ (0,0): [11/28/2018 03:47:34.140 AM] Unity.Collections.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.dll
+ (0,0): [11/28/2018 03:47:34.143 AM] Unity.Mathematics.Editor.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:34.155 AM] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [11/28/2018 03:47:34.218 AM] Unity.Collections.dll compilation finished in 166ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:34.220 AM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Mathematics.Editor.dll
+ (0,0): [11/28/2018 03:47:34.230 AM] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:34.278 AM] Unity.Mathematics.Editor.dll compilation finished in 123ms  source files re-parsed: 4 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:34.290 AM] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:34.641 AM] Unity.Entities.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:34.654 AM] Unity.Entities.dll compiling...
+ (0,0): [11/28/2018 03:47:34.844 AM] Unity.Jobs.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:34.897 AM] Unity.Jobs.dll compiling...
+ (0,0): [11/28/2018 03:47:34.957 AM] Unity.Collections.Tests.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:34.969 AM] Unity.Jobs.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.dll
+ (0,0): [11/28/2018 03:47:34.971 AM] Unity.Collections.Tests.dll compiling...
+ (0,0): [11/28/2018 03:47:35.012 AM] Unity.Jobs.dll compilation finished in 115ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:35.031 AM] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:35.099 AM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Collections.Tests.dll
+ (0,0): [11/28/2018 03:47:35.106 AM] Unity.Entities.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.dll
+ (0,0): [11/28/2018 03:47:35.184 AM] Unity.Collections.Tests.dll compilation finished in 213ms  source files re-parsed: 17 metadata reloaded: 3
+ (0,0): [11/28/2018 03:47:35.197 AM] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:35.234 AM] Unity.Entities.dll compilation finished in 580ms  source files re-parsed: 58 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:35.246 AM] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:35.457 AM] Unity.Jobs.Tests.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:35.469 AM] Unity.Jobs.Tests.dll compiling...
+ (0,0): [11/28/2018 03:47:35.512 AM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Tests.dll
+ (0,0): [11/28/2018 03:47:35.541 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:35.553 AM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [11/28/2018 03:47:35.567 AM] Unity.Jobs.Tests.dll compilation finished in 98ms  source files re-parsed: 2 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:35.579 AM] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:35.590 AM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Jobs.Editor.dll
+ (0,0): [11/28/2018 03:47:35.639 AM] Unity.Jobs.Editor.dll compilation finished in 85ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:35.653 AM] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:35.663 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:35.674 AM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [11/28/2018 03:47:35.720 AM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [11/28/2018 03:47:35.786 AM] Unity.Entities.Hybrid.dll compilation finished in 111ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:35.798 AM] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:36.164 AM] Unity.Transforms.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:36.176 AM] Unity.Transforms.dll compiling...
+ (0,0): [11/28/2018 03:47:36.261 AM] Unity.Transforms.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.dll
+ (0,0): [11/28/2018 03:47:36.271 AM] Unity.Entities.TestComponents.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:36.283 AM] Unity.Entities.TestComponents.dll compiling...
+ (0,0): [11/28/2018 03:47:36.317 AM] Unity.Entities.TestComponents.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.TestComponents.dll
+ (0,0): [11/28/2018 03:47:36.330 AM] Unity.Transforms.dll compilation finished in 154ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:36.342 AM] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:36.361 AM] Unity.Entities.TestComponents.dll compilation finished in 78ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:36.374 AM] Unity.Entities.TestComponents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:36.875 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:36.888 AM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [11/28/2018 03:47:36.977 AM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [11/28/2018 03:47:36.979 AM] Unity.Entities.Properties.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:36.992 AM] Unity.Entities.Properties.dll compiling...
+ (0,0): [11/28/2018 03:47:37.050 AM] Unity.Rendering.Hybrid.dll compilation finished in 162ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:37.070 AM] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:37.072 AM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.dll
+ (0,0): [11/28/2018 03:47:37.077 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:37.090 AM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [11/28/2018 03:47:37.127 AM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [11/28/2018 03:47:37.153 AM] Unity.Entities.Properties.dll compilation finished in 161ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:37.156 AM] Unity.Entities.Tests.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:37.164 AM] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:37.168 AM] Unity.Entities.Tests.dll compiling...
+ (0,0): [11/28/2018 03:47:37.164 AM] Unity.Transforms.Hybrid.dll compilation finished in 74ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:37.188 AM] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:37.408 AM] Unity.Entities.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Tests.dll
+ (0,0): [11/28/2018 03:47:37.543 AM] Unity.Entities.Tests.dll compilation finished in 375ms  source files re-parsed: 41 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:37.554 AM] Unity.Entities.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:37.754 AM] Unity.Entities.Editor.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:37.766 AM] Unity.Entities.Editor.dll compiling...
+ (0,0): [11/28/2018 03:47:37.888 AM] Unity.Entities.Properties.Tests.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:37.895 AM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.dll
+ (0,0): [11/28/2018 03:47:37.900 AM] Unity.Entities.Properties.Tests.dll compiling...
+ (0,0): [11/28/2018 03:47:37.985 AM] Unity.Entities.Properties.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Properties.Tests.dll
+ (0,0): [11/28/2018 03:47:37.990 AM] Unity.Entities.Hybrid.Tests.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.004 AM] Unity.Entities.Hybrid.Tests.dll compiling...
+ (0,0): [11/28/2018 03:47:38.023 AM] Unity.Entities.Editor.dll compilation finished in 257ms  source files re-parsed: 25 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:38.031 AM] Unity.Entities.Properties.Tests.dll compilation finished in 130ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:38.035 AM] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.043 AM] Unity.Entities.Properties.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.065 AM] Unity.Transforms.Tests.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.069 AM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Hybrid.Tests.dll
+ (0,0): [11/28/2018 03:47:38.079 AM] Unity.Transforms.Tests.dll compiling...
+ (0,0): [11/28/2018 03:47:38.136 AM] Unity.Entities.Hybrid.Tests.dll compilation finished in 130ms  source files re-parsed: 8 metadata reloaded: 2
+ (0,0): [11/28/2018 03:47:38.137 AM] Unity.Transforms.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Tests.dll
+ (0,0): [11/28/2018 03:47:38.148 AM] Unity.Entities.Hybrid.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.207 AM] Unity.Transforms.Tests.dll compilation finished in 128ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 03:47:38.219 AM] Unity.Transforms.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.357 AM] Unity.Entities.Editor.Tests.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.369 AM] Unity.Entities.Editor.Tests.dll compiling...
+ (0,0): [11/28/2018 03:47:38.421 AM] Unity.Entities.Editor.Tests.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Entities.Editor.Tests.dll
+ (0,0): [11/28/2018 03:47:38.458 AM] Unity.Transforms.Editor.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.470 AM] Unity.Transforms.Editor.dll compiling...
+ (0,0): [11/28/2018 03:47:38.479 AM] Unity.Entities.Editor.Tests.dll compilation finished in 110ms  source files re-parsed: 5 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:38.491 AM] Unity.Entities.Editor.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.510 AM] Unity.Transforms.Editor.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Unity.Transforms.Editor.dll
+ (0,0): [11/28/2018 03:47:38.547 AM] Unity.Transforms.Editor.dll compilation finished in 78ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [11/28/2018 03:47:38.559 AM] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.859 AM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 03:47:38.871 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 03:47:38.909 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 03:47:38.946 AM] Assembly-CSharp.dll compilation finished in 76ms  source files re-parsed: 13 metadata reloaded: 9
+ (0,0): [11/28/2018 03:47:38.958 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 03:52:13.779 AM] Compiler cache size is now 16.70 MB
+ (0,0): [11/28/2018 04:39:04.063 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:39:04.114 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:39:04.168 AM] Assembly-CSharp.dll compilation finished in 104ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 04:39:04.180 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:39:04.193 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:40:18.657 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:40:18.690 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:40:18.735 AM] Assembly-CSharp.dll compilation finished in 78ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 04:40:18.747 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:40:18.759 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:42:09.084 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:42:09.129 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:42:09.180 AM] Assembly-CSharp.dll compilation finished in 96ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 04:42:09.192 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:42:09.204 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:43:47.373 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:43:47.416 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:43:47.466 AM] Assembly-CSharp.dll compilation finished in 93ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 04:43:47.478 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:43:47.490 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:45:22.774 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:45:22.810 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:45:22.857 AM] Assembly-CSharp.dll compilation finished in 83ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 04:45:22.869 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:45:22.881 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:46:14.477 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:46:14.526 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:46:14.582 AM] Assembly-CSharp.dll compilation finished in 104ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 04:46:14.597 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:46:14.609 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:47:05.560 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:47:05.598 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:47:05.644 AM] Assembly-CSharp.dll compilation finished in 83ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 04:47:05.656 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:47:05.668 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:48:16.209 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:48:16.248 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:48:16.295 AM] Assembly-CSharp.dll compilation finished in 85ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 04:48:16.307 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:48:16.319 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:48:53.823 AM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 32752
+ (0,0): [11/28/2018 04:48:53.835 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:48:53.873 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:48:53.926 AM] Assembly-CSharp.dll compilation finished in 90ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [11/28/2018 04:48:53.938 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:53:37.682 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:53:37.719 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:53:37.745 AM] Assembly-CSharp.dll compilation finished in 63ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 04:53:37.757 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:53:37.769 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 04:59:39.492 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 04:59:39.525 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 04:59:39.538 AM] Assembly-CSharp.dll compilation finished in 45ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [11/28/2018 04:59:39.550 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 04:59:39.562 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:05:49.106 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:05:49.170 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:05:49.185 AM] Assembly-CSharp.dll compilation finished in 79ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [11/28/2018 05:05:49.198 AM] Assembly-CSharp.dll: compilation was cached, 3 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:05:49.210 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:06:54.423 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:06:54.460 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:06:54.473 AM] Assembly-CSharp.dll compilation finished in 49ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:06:54.485 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:06:54.497 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:08:27.138 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:08:27.174 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:08:27.190 AM] Assembly-CSharp.dll compilation finished in 51ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:08:27.202 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:08:27.214 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:08:57.569 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:08:57.598 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:08:57.611 AM] Assembly-CSharp.dll compilation finished in 42ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:08:57.624 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:08:57.636 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:09:28.545 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:09:28.573 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:09:28.586 AM] Assembly-CSharp.dll compilation finished in 41ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:09:28.599 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:09:28.611 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:10:28.383 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:10:28.415 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:10:28.429 AM] Assembly-CSharp.dll compilation finished in 46ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:10:28.441 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:10:28.453 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:10:47.976 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:10:48.008 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:10:48.021 AM] Assembly-CSharp.dll compilation finished in 46ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:10:48.033 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:10:48.045 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:11:45.000 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:11:45.028 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:11:45.041 AM] Assembly-CSharp.dll compilation finished in 41ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:11:45.054 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:11:45.066 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:12:19.706 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:12:19.740 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:12:19.787 AM] Assembly-CSharp.dll compilation finished in 81ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:12:19.800 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:12:19.812 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:13:36.968 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:13:37.006 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:13:37.054 AM] Assembly-CSharp.dll compilation finished in 85ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:13:37.066 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:13:37.078 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:15:02.554 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:15:02.595 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:15:02.609 AM] Assembly-CSharp.dll compilation finished in 55ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:15:02.621 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:15:02.633 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:17:04.075 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:17:04.117 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:17:04.132 AM] Assembly-CSharp.dll compilation finished in 57ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:17:04.144 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:17:04.156 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:17:28.173 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:17:28.204 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:17:28.216 AM] Assembly-CSharp.dll compilation finished in 42ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:17:28.229 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:17:28.241 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:17:49.188 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:17:49.223 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:17:49.271 AM] Assembly-CSharp.dll compilation finished in 82ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [11/28/2018 05:17:49.283 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:17:49.295 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:18:42.093 AM] Assembly-CSharp.dll compiling...
+ (0,0): [11/28/2018 05:18:42.129 AM] Assembly-CSharp.dll: emitting IL to : C:\Users\HDgam\Documents\EYODF\ECS_101\ECS_Drone\Temp\Assembly-CSharp.dll
+ (0,0): [11/28/2018 05:18:42.178 AM] Assembly-CSharp.dll compilation finished in 84ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [11/28/2018 05:18:42.191 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 32752
+ (0,0): [11/28/2018 05:18:42.203 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 32752
+ (0,0): [11/28/2018 05:19:29.279 AM] watchdog triggered an exit

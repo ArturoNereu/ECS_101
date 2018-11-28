@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using Unity.Entities;
 using Unity.Transforms;
 
@@ -16,7 +14,6 @@ namespace Drone.Pure
         }
 
         [Inject] private Data m_Data;
-
         protected override void OnUpdate()
         {
             float dt = Time.deltaTime;

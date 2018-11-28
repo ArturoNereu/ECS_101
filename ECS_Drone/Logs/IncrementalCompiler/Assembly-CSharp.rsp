@@ -322,4 +322,5 @@
 -i:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Assets/Scripts/Pure/DroneComponentTypes.cs
 -i:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Assets/Scripts/Pure/DroneMoveSystemPure.cs
 -i:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Assets/Scripts/Pure/MoveSystem.cs
+-i:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Assets/Scripts/Pure/RotateSystem.cs
 -v:0

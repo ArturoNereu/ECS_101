@@ -9,4 +9,9 @@ namespace Drone.Pure
     {
         public float speed;
     }
+
+    public struct RotationSpeed : IComponentData
+    {
+        public float Value;
+    }
 }

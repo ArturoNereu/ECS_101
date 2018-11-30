@@ -42,9 +42,9 @@ namespace Drone.Pure
             entityManager.SetComponentData(drone, new MoveSpeed { speed = 1.0f});
             entityManager.AddSharedComponentData(drone, droneLook);
 
-            entityManager.SetComponentData(helix, new Position { Value = new float3(-0.9719278f, 0.3562064f, 0.9688234f) });
+            entityManager.SetComponentData(helix, new Position { Value = new float3(-1, -0.25f, 1) });
             entityManager.SetComponentData(helix, new Rotation { Value = quaternion.identity });
-            entityManager.SetComponentData(helix, new RotationSpeed { Value = 100.0f });
+            entityManager.SetComponentData(helix, new RotationSpeed { Value = 1000.0f });
             entityManager.AddSharedComponentData(helix, helixLook);
 
             Entity helixAttachEntity = entityManager.CreateEntity(helixAttach);

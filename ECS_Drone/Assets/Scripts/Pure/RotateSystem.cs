@@ -21,11 +21,9 @@ namespace Drone.Pure
             for (int index = 0; index < m_Data.Length; ++index)
             {
                 var rotation = m_Data.Rotation[index].Value;
-                rotation = math.mul(math.normalize(m_Data.Rotation[index].Value), quaternion.AxisAngle(new float3(1, 0, 0), m_Data.RotationSpeed[index].Value * dt));
+                rotation = math.mul(math.normalize(m_Data.Rotation[index].Value), quaternion.AxisAngle(new float3(0, 1, 0), m_Data.RotationSpeed[index].Value * dt));
 
                 m_Data.Rotation[index] = new Rotation { Value = rotation };
-
-                    //math.mul(math.normalize(rotation.Value), quaternion.AxisAngle(math.up(), speed.Value * dt)
             }
         }
     }

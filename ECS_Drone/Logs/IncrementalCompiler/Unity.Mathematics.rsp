@@ -86,7 +86,7 @@
 -r:"/Applications/Unity/Hub/Editor/2018.2.10f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
 -r:"/Applications/Unity/Hub/Editor/2018.2.10f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
 -r:"/Applications/Unity/Hub/Editor/2018.2.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
--r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/System.Runtime.CompilerServices.Unsafe.dll"
+-r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.10/System.Runtime.CompilerServices.Unsafe.dll"
 -r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Rocks.dll"
 -r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.dll"
 -r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Pdb.dll"

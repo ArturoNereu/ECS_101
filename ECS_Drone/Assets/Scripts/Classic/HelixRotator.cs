@@ -1,11 +1,16 @@
 ﻿using UnityEngine;
 
-public class HelixRotator : MonoBehaviour
+// This component will be assigned to the Drone's propellers. We see that we have the data and the code that transforms it in the same place.
+// We have a rotation speed reference as well as one to the object's Transform
+namespace Drone.Classic
 {
-    public float rotationSpeed;
-    
-	void Update ()
+    public class HelixRotator : MonoBehaviour
     {
-        transform.Rotate(transform.up, rotationSpeed * Time.deltaTime);
-	}
+        public float rotationSpeed;
+
+        void Update()
+        {
+            transform.Rotate(transform.up, rotationSpeed * Time.deltaTime);
+        }
+    }
 }

@@ -260,7 +260,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 261820651}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 0}
@@ -302,7 +302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volumeTrigger: {fileID: 282840814}
+  volumeTrigger: {fileID: 0}
   volumeLayer:
     serializedVersion: 2
     m_Bits: 256
@@ -397,7 +397,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 282840810}
   m_LocalRotation: {x: -0.26755363, y: -0.40749598, z: 0.12619337, w: -0.86396605}
-  m_LocalPosition: {x: -3.1718807, y: 3.7528553, z: -2.858427}
+  m_LocalPosition: {x: -3.1718807, y: 2, z: -2.858427}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -416,7 +416,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4220753179310670, guid: 45f8888f89f0c2b43a135415b8abd6f0, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.34
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4220753179310670, guid: 45f8888f89f0c2b43a135415b8abd6f0, type: 2}
       propertyPath: m_LocalPosition.z
@@ -428,7 +428,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4220753179310670, guid: 45f8888f89f0c2b43a135415b8abd6f0, type: 2}
       propertyPath: m_LocalRotation.y
-      value: 0.38268343
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4220753179310670, guid: 45f8888f89f0c2b43a135415b8abd6f0, type: 2}
       propertyPath: m_LocalRotation.z
@@ -436,7 +436,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4220753179310670, guid: 45f8888f89f0c2b43a135415b8abd6f0, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 0.92387956
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4220753179310670, guid: 45f8888f89f0c2b43a135415b8abd6f0, type: 2}
       propertyPath: m_RootOrder
@@ -575,6 +575,10 @@ Prefab:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 4300006, guid: 083839fcc31a84411ab217e42b5126af, type: 3}
+    - target: {fileID: 4220753179310670, guid: 45f8888f89f0c2b43a135415b8abd6f0, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45f8888f89f0c2b43a135415b8abd6f0, type: 2}
   m_IsPrefabAsset: 0

@@ -86,7 +86,7 @@
 -r:"/Applications/Unity/Hub/Editor/2018.2.10f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
 -r:"/Applications/Unity/Hub/Editor/2018.2.10f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
 -r:"/Applications/Unity/Hub/Editor/2018.2.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
--r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.9/System.Runtime.CompilerServices.Unsafe.dll"
+-r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.10/System.Runtime.CompilerServices.Unsafe.dll"
 -r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Rocks.dll"
 -r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.dll"
 -r:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.11-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Pdb.dll"
@@ -309,7 +309,7 @@
 -d:ENABLE_VSTU
 -d:UNITY_PRO_LICENSE
 -d:UNITY_POST_PROCESSING_STACK_V2
--i:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.burst@0.2.4-preview.34/Runtime/BurstCompileAttribute.cs"
--i:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.burst@0.2.4-preview.34/Runtime/BurstCompiler.cs"
--i:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.burst@0.2.4-preview.34/Runtime/BurstRuntime.cs"
+-i:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.burst@0.2.4-preview.37/Runtime/BurstCompileAttribute.cs"
+-i:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.burst@0.2.4-preview.37/Runtime/BurstCompiler.cs"
+-i:"/Users/nereu/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.burst@0.2.4-preview.37/Runtime/BurstRuntime.cs"
 -v:0

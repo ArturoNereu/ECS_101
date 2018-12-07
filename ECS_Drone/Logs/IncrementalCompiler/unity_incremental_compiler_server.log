@@ -1,349 +1,189 @@
- (0,0): [12/06/2018 04:43:23.213 AM] Unity incremental compiler server
- (0,0): [12/06/2018 04:43:23.388 AM] watchdog active on pid: 14539
- (0,0): [12/06/2018 04:43:27.449 AM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:27.464 AM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [12/06/2018 04:43:27.482 AM] Unity.Mathematics.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:27.495 AM] Unity.Mathematics.dll compiling...
- (0,0): [12/06/2018 04:43:27.603 AM] Unity.Properties.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:27.614 AM] Unity.Properties.dll compiling...
- (0,0): [12/06/2018 04:43:27.646 AM] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:27.656 AM] Unity.Burst.dll compiling...
- (0,0): [12/06/2018 04:43:27.802 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:27.813 AM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:29.657 AM] Unity.Burst.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Burst.dll
- (0,0): [12/06/2018 04:43:29.658 AM] Unity.Postprocessing.Runtime.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Postprocessing.Runtime.dll
- (0,0): [12/06/2018 04:43:29.659 AM] Unity.Properties.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Properties.dll
- (0,0): [12/06/2018 04:43:29.659 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.PackageManagerUI.Editor.dll
- (0,0): [12/06/2018 04:43:29.677 AM] Unity.Postprocessing.Runtime.dll compilation finished in 2213ms  source files re-parsed: 56 metadata reloaded: 205
- (0,0): [12/06/2018 04:43:29.690 AM] Unity.Postprocessing.Runtime.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:29.730 AM] Unity.Burst.dll compilation finished in 2073ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:29.730 AM] Unity.Properties.dll compilation finished in 2116ms  source files re-parsed: 34 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:29.730 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 1917ms  source files re-parsed: 44 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:29.741 AM] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:29.741 AM] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:29.741 AM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:30.104 AM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:30.116 AM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:30.295 AM] Unity.Properties.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:30.307 AM] Unity.Properties.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:30.337 AM] Unity.Postprocessing.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Postprocessing.Editor.dll
- (0,0): [12/06/2018 04:43:30.355 AM] Unity.Postprocessing.Editor.dll compilation finished in 240ms  source files re-parsed: 35 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:30.367 AM] Unity.Postprocessing.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:30.397 AM] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:30.410 AM] Unity.Burst.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:30.507 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:30.520 AM] Unity.Properties.Codegen.dll compiling...
- (0,0): [12/06/2018 04:43:30.557 AM] Unity.Properties.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Properties.Editor.dll
- (0,0): [12/06/2018 04:43:30.559 AM] Unity.Burst.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Burst.Editor.dll
- (0,0): [12/06/2018 04:43:30.573 AM] Unity.Burst.Editor.dll compilation finished in 163ms  source files re-parsed: 10 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:30.573 AM] Unity.Properties.Editor.dll compilation finished in 266ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:30.584 AM] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:30.585 AM] Unity.Properties.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:30.611 AM] Unity.Properties.Codegen.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Properties.Codegen.dll
- (0,0): [12/06/2018 04:43:30.624 AM] Unity.Properties.Codegen.dll compilation finished in 105ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:30.635 AM] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.011 AM] Unity.Mathematics.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Mathematics.dll
- (0,0): [12/06/2018 04:43:31.030 AM] Unity.Mathematics.dll compilation finished in 3535ms  source files re-parsed: 82 metadata reloaded: 160
- (0,0): [12/06/2018 04:43:31.041 AM] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.182 AM] Unity.Collections.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.193 AM] Unity.Collections.dll compiling...
- (0,0): [12/06/2018 04:43:31.303 AM] Unity.Collections.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Collections.dll
- (0,0): [12/06/2018 04:43:31.303 AM] Unity.Mathematics.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.314 AM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:31.315 AM] Unity.Collections.dll compilation finished in 122ms  source files re-parsed: 12 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:31.326 AM] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.382 AM] Unity.Mathematics.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Mathematics.Editor.dll
- (0,0): [12/06/2018 04:43:31.396 AM] Unity.Mathematics.Editor.dll compilation finished in 81ms  source files re-parsed: 4 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:31.406 AM] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.474 AM] Unity.Entities.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.485 AM] Unity.Entities.dll compiling...
- (0,0): [12/06/2018 04:43:31.584 AM] Unity.Jobs.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.595 AM] Unity.Jobs.dll compiling...
- (0,0): [12/06/2018 04:43:31.712 AM] Unity.Jobs.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Jobs.dll
- (0,0): [12/06/2018 04:43:31.726 AM] Unity.Jobs.dll compilation finished in 131ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:31.734 AM] Unity.Collections.Tests.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.736 AM] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.747 AM] Unity.Collections.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:31.837 AM] Unity.Collections.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Collections.Tests.dll
- (0,0): [12/06/2018 04:43:31.844 AM] Unity.Entities.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.dll
- (0,0): [12/06/2018 04:43:31.855 AM] Unity.Collections.Tests.dll compilation finished in 108ms  source files re-parsed: 17 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:31.860 AM] Unity.Entities.dll compilation finished in 375ms  source files re-parsed: 58 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:31.867 AM] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.872 AM] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.966 AM] Unity.Jobs.Tests.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:31.977 AM] Unity.Jobs.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:32.015 AM] Unity.Jobs.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Jobs.Tests.dll
- (0,0): [12/06/2018 04:43:32.030 AM] Unity.Jobs.Tests.dll compilation finished in 53ms  source files re-parsed: 2 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:32.040 AM] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.070 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.081 AM] Unity.Jobs.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:32.116 AM] Unity.Jobs.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Jobs.Editor.dll
- (0,0): [12/06/2018 04:43:32.130 AM] Unity.Jobs.Editor.dll compilation finished in 49ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:32.142 AM] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.170 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.181 AM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [12/06/2018 04:43:32.237 AM] Unity.Entities.Hybrid.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Hybrid.dll
- (0,0): [12/06/2018 04:43:32.251 AM] Unity.Entities.Hybrid.dll compilation finished in 70ms  source files re-parsed: 12 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:32.261 AM] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.471 AM] Unity.Transforms.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.482 AM] Unity.Transforms.dll compiling...
- (0,0): [12/06/2018 04:43:32.582 AM] Unity.Transforms.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.dll
- (0,0): [12/06/2018 04:43:32.585 AM] Unity.Entities.TestComponents.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.595 AM] Unity.Transforms.dll compilation finished in 113ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:32.596 AM] Unity.Entities.TestComponents.dll compiling...
- (0,0): [12/06/2018 04:43:32.605 AM] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.629 AM] Unity.Entities.TestComponents.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.TestComponents.dll
- (0,0): [12/06/2018 04:43:32.642 AM] Unity.Entities.TestComponents.dll compilation finished in 45ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:32.652 AM] Unity.Entities.TestComponents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.781 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.792 AM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [12/06/2018 04:43:32.870 AM] Unity.Rendering.Hybrid.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Rendering.Hybrid.dll
- (0,0): [12/06/2018 04:43:32.872 AM] Unity.Entities.Properties.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.882 AM] Unity.Rendering.Hybrid.dll compilation finished in 90ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:32.886 AM] Unity.Entities.Properties.dll compiling...
- (0,0): [12/06/2018 04:43:32.896 AM] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.937 AM] Unity.Entities.Properties.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Properties.dll
- (0,0): [12/06/2018 04:43:32.951 AM] Unity.Entities.Properties.dll compilation finished in 65ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:32.961 AM] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.969 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:32.980 AM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [12/06/2018 04:43:33.020 AM] Unity.Transforms.Hybrid.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.Hybrid.dll
- (0,0): [12/06/2018 04:43:33.032 AM] Unity.Transforms.Hybrid.dll compilation finished in 51ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:33.042 AM] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.074 AM] Unity.Entities.Tests.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.085 AM] Unity.Entities.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:33.222 AM] Unity.Entities.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.234 AM] Unity.Entities.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:33.331 AM] Unity.Entities.Properties.Tests.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.342 AM] Unity.Entities.Properties.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:33.415 AM] Unity.Entities.Properties.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Properties.Tests.dll
- (0,0): [12/06/2018 04:43:33.428 AM] Unity.Entities.Properties.Tests.dll compilation finished in 85ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:33.439 AM] Unity.Entities.Properties.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.445 AM] Unity.Entities.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Editor.dll
- (0,0): [12/06/2018 04:43:33.454 AM] Unity.Entities.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Tests.dll
- (0,0): [12/06/2018 04:43:33.459 AM] Unity.Entities.Editor.dll compilation finished in 225ms  source files re-parsed: 26 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:33.468 AM] Unity.Entities.Tests.dll compilation finished in 382ms  source files re-parsed: 41 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:33.470 AM] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.479 AM] Unity.Entities.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.590 AM] Unity.Transforms.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.601 AM] Unity.Transforms.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:33.637 AM] Unity.Transforms.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.Editor.dll
- (0,0): [12/06/2018 04:43:33.650 AM] Unity.Transforms.Editor.dll compilation finished in 48ms  source files re-parsed: 1 metadata reloaded: 2
- (0,0): [12/06/2018 04:43:33.661 AM] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.691 AM] Unity.Entities.Editor.Tests.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.703 AM] Unity.Entities.Editor.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:33.759 AM] Unity.Entities.Editor.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Editor.Tests.dll
- (0,0): [12/06/2018 04:43:33.772 AM] Unity.Entities.Editor.Tests.dll compilation finished in 69ms  source files re-parsed: 5 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:33.783 AM] Unity.Entities.Editor.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.790 AM] Unity.Entities.Hybrid.Tests.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.804 AM] Unity.Entities.Hybrid.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:33.858 AM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Hybrid.Tests.dll
- (0,0): [12/06/2018 04:43:33.871 AM] Unity.Entities.Hybrid.Tests.dll compilation finished in 67ms  source files re-parsed: 8 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:33.883 AM] Unity.Entities.Hybrid.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.892 AM] Unity.Transforms.Tests.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:33.903 AM] Unity.Transforms.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:33.965 AM] Unity.Transforms.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.Tests.dll
- (0,0): [12/06/2018 04:43:33.979 AM] Unity.Transforms.Tests.dll compilation finished in 76ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:33.989 AM] Unity.Transforms.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:36.413 AM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:36.424 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 04:43:36.470 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 04:43:36.484 AM] Assembly-CSharp.dll compilation finished in 60ms  source files re-parsed: 13 metadata reloaded: 9
- (0,0): [12/06/2018 04:43:36.495 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:40.829 AM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:40.843 AM] Unity.Postprocessing.Runtime.dll compiling...
- (0,0): [12/06/2018 04:43:40.867 AM] Unity.Mathematics.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:40.877 AM] Unity.Mathematics.dll compiling...
- (0,0): [12/06/2018 04:43:40.943 AM] Unity.Properties.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:40.961 AM] Unity.Properties.dll compiling...
- (0,0): [12/06/2018 04:43:41.076 AM] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:41.088 AM] Unity.Burst.dll compiling...
- (0,0): [12/06/2018 04:43:41.201 AM] Unity.Burst.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Burst.dll
- (0,0): [12/06/2018 04:43:41.320 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:41.339 AM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:41.510 AM] Unity.Burst.dll compilation finished in 421ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:41.536 AM] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:41.735 AM] Unity.Postprocessing.Runtime.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Postprocessing.Runtime.dll
- (0,0): [12/06/2018 04:43:41.742 AM] Unity.Properties.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Properties.dll
- (0,0): [12/06/2018 04:43:41.749 AM] Unity.Postprocessing.Runtime.dll compilation finished in 906ms  source files re-parsed: 56 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:41.757 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.PackageManagerUI.Editor.dll
- (0,0): [12/06/2018 04:43:41.759 AM] Unity.Properties.dll compilation finished in 797ms  source files re-parsed: 34 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:41.760 AM] Unity.Postprocessing.Runtime.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:41.769 AM] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:41.771 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 432ms  source files re-parsed: 44 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:41.782 AM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:43.262 AM] Unity.Properties.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:43.274 AM] Unity.Properties.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:43.411 AM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:43.422 AM] Unity.Postprocessing.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:43.607 AM] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:43.627 AM] Unity.Burst.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:43.633 AM] Unity.Properties.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Properties.Editor.dll
- (0,0): [12/06/2018 04:43:43.656 AM] Unity.Properties.Editor.dll compilation finished in 382ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:43.668 AM] Unity.Properties.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:43.687 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:43.699 AM] Unity.Properties.Codegen.dll compiling...
- (0,0): [12/06/2018 04:43:43.779 AM] Unity.Postprocessing.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Postprocessing.Editor.dll
- (0,0): [12/06/2018 04:43:43.783 AM] Unity.Burst.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Burst.Editor.dll
- (0,0): [12/06/2018 04:43:43.792 AM] Unity.Postprocessing.Editor.dll compilation finished in 369ms  source files re-parsed: 35 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:43.795 AM] Unity.Burst.Editor.dll compilation finished in 167ms  source files re-parsed: 10 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:43.802 AM] Unity.Properties.Codegen.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Properties.Codegen.dll
- (0,0): [12/06/2018 04:43:43.802 AM] Unity.Postprocessing.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:43.805 AM] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:43.815 AM] Unity.Properties.Codegen.dll compilation finished in 116ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:43.825 AM] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:44.060 AM] Unity.Mathematics.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Mathematics.dll
- (0,0): [12/06/2018 04:43:44.081 AM] Unity.Mathematics.dll compilation finished in 3203ms  source files re-parsed: 82 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:44.092 AM] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:44.503 AM] Unity.Collections.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:44.514 AM] Unity.Collections.dll compiling...
- (0,0): [12/06/2018 04:43:44.604 AM] Unity.Collections.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Collections.dll
- (0,0): [12/06/2018 04:43:44.610 AM] Unity.Mathematics.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:44.617 AM] Unity.Collections.dll compilation finished in 103ms  source files re-parsed: 12 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:44.621 AM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:44.628 AM] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:44.680 AM] Unity.Mathematics.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Mathematics.Editor.dll
- (0,0): [12/06/2018 04:43:44.693 AM] Unity.Mathematics.Editor.dll compilation finished in 71ms  source files re-parsed: 4 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:44.704 AM] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:44.915 AM] Unity.Entities.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:44.929 AM] Unity.Entities.dll compiling...
- (0,0): [12/06/2018 04:43:45.049 AM] Unity.Jobs.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.070 AM] Unity.Jobs.dll compiling...
- (0,0): [12/06/2018 04:43:45.205 AM] Unity.Collections.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:45.233 AM] Unity.Jobs.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Jobs.dll
- (0,0): [12/06/2018 04:43:45.246 AM] Unity.Jobs.dll compilation finished in 176ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:45.258 AM] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.336 AM] Unity.Collections.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Collections.Tests.dll
- (0,0): [12/06/2018 04:43:45.350 AM] Unity.Collections.Tests.dll compilation finished in 145ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:45.360 AM] Unity.Collections.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.384 AM] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.392 AM] Unity.Entities.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.dll
- (0,0): [12/06/2018 04:43:45.407 AM] Unity.Entities.dll compilation finished in 477ms  source files re-parsed: 58 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:45.418 AM] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.489 AM] Unity.Jobs.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:45.532 AM] Unity.Jobs.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Jobs.Tests.dll
- (0,0): [12/06/2018 04:43:45.544 AM] Unity.Jobs.Tests.dll compilation finished in 55ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:45.555 AM] Unity.Jobs.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.566 AM] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.597 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.608 AM] Unity.Jobs.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:45.637 AM] Unity.Jobs.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Jobs.Editor.dll
- (0,0): [12/06/2018 04:43:45.650 AM] Unity.Jobs.Editor.dll compilation finished in 42ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:45.661 AM] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.702 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:45.713 AM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [12/06/2018 04:43:45.777 AM] Unity.Entities.Hybrid.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Hybrid.dll
- (0,0): [12/06/2018 04:43:45.790 AM] Unity.Entities.Hybrid.dll compilation finished in 76ms  source files re-parsed: 12 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:45.800 AM] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:46.202 AM] Unity.Transforms.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:46.213 AM] Unity.Transforms.dll compiling...
- (0,0): [12/06/2018 04:43:46.304 AM] Unity.Entities.TestComponents.dll compiling...
- (0,0): [12/06/2018 04:43:46.317 AM] Unity.Transforms.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.dll
- (0,0): [12/06/2018 04:43:46.330 AM] Unity.Transforms.dll compilation finished in 116ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:46.333 AM] Unity.Entities.TestComponents.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.TestComponents.dll
- (0,0): [12/06/2018 04:43:46.340 AM] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:46.345 AM] Unity.Entities.TestComponents.dll compilation finished in 41ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:46.356 AM] Unity.Entities.TestComponents.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:43:46.368 AM] Unity.Entities.TestComponents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:46.814 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:46.825 AM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [12/06/2018 04:43:46.903 AM] Unity.Rendering.Hybrid.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Rendering.Hybrid.dll
- (0,0): [12/06/2018 04:43:46.911 AM] Unity.Entities.Properties.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:46.916 AM] Unity.Rendering.Hybrid.dll compilation finished in 91ms  source files re-parsed: 9 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:46.922 AM] Unity.Entities.Properties.dll compiling...
- (0,0): [12/06/2018 04:43:46.927 AM] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:46.986 AM] Unity.Entities.Properties.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Properties.dll
- (0,0): [12/06/2018 04:43:46.998 AM] Unity.Entities.Properties.dll compilation finished in 76ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:47.005 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.009 AM] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.017 AM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [12/06/2018 04:43:47.057 AM] Unity.Transforms.Hybrid.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.Hybrid.dll
- (0,0): [12/06/2018 04:43:47.069 AM] Unity.Transforms.Hybrid.dll compilation finished in 52ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:47.081 AM] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.102 AM] Unity.Entities.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:47.342 AM] Unity.Entities.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Tests.dll
- (0,0): [12/06/2018 04:43:47.357 AM] Unity.Entities.Tests.dll compilation finished in 254ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:47.368 AM] Unity.Entities.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.379 AM] Unity.Entities.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.412 AM] Unity.Entities.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.423 AM] Unity.Entities.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:47.520 AM] Unity.Entities.Properties.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:47.560 AM] Unity.Entities.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Editor.dll
- (0,0): [12/06/2018 04:43:47.566 AM] Unity.Entities.Properties.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Properties.Tests.dll
- (0,0): [12/06/2018 04:43:47.573 AM] Unity.Entities.Editor.dll compilation finished in 149ms  source files re-parsed: 26 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:47.578 AM] Unity.Entities.Properties.Tests.dll compilation finished in 57ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:47.583 AM] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.589 AM] Unity.Entities.Properties.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.599 AM] Unity.Entities.Properties.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.669 AM] Unity.Entities.Hybrid.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:47.724 AM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Hybrid.Tests.dll
- (0,0): [12/06/2018 04:43:47.738 AM] Unity.Entities.Hybrid.Tests.dll compilation finished in 68ms  source files re-parsed: 0 metadata reloaded: 2
- (0,0): [12/06/2018 04:43:47.749 AM] Unity.Entities.Hybrid.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.761 AM] Unity.Entities.Hybrid.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.763 AM] Unity.Transforms.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:47.835 AM] Unity.Transforms.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.Tests.dll
- (0,0): [12/06/2018 04:43:47.848 AM] Unity.Transforms.Tests.dll compilation finished in 84ms  source files re-parsed: 0 metadata reloaded: 0
- (0,0): [12/06/2018 04:43:47.858 AM] Unity.Transforms.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.870 AM] Unity.Transforms.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.871 AM] Unity.Entities.Editor.Tests.dll compiling...
- (0,0): [12/06/2018 04:43:47.923 AM] Unity.Entities.Editor.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Editor.Tests.dll
- (0,0): [12/06/2018 04:43:47.936 AM] Unity.Entities.Editor.Tests.dll compilation finished in 65ms  source files re-parsed: 0 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:47.947 AM] Unity.Entities.Editor.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.958 AM] Unity.Entities.Editor.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.978 AM] Unity.Transforms.Editor.dll: no prior compilation found in cache. Caller PID: 14539
- (0,0): [12/06/2018 04:43:47.990 AM] Unity.Transforms.Editor.dll compiling...
- (0,0): [12/06/2018 04:43:48.027 AM] Unity.Transforms.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.Editor.dll
- (0,0): [12/06/2018 04:43:48.041 AM] Unity.Transforms.Editor.dll compilation finished in 51ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [12/06/2018 04:43:48.051 AM] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:43:48.268 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 04:43:48.309 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 04:43:48.321 AM] Assembly-CSharp.dll compilation finished in 53ms  source files re-parsed: 0 metadata reloaded: 9
- (0,0): [12/06/2018 04:43:48.332 AM] Assembly-CSharp.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:43:48.343 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:47:04.695 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 04:47:04.747 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 04:47:04.760 AM] Assembly-CSharp.dll compilation finished in 65ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 04:47:04.771 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:47:04.782 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:48:31.925 AM] Compiler cache size is now 16.95 MB
- (0,0): [12/06/2018 04:50:58.950 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 04:50:58.985 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 04:50:58.999 AM] Assembly-CSharp.dll compilation finished in 49ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [12/06/2018 04:50:59.010 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:50:59.021 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:55:18.180 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 04:55:18.221 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 04:55:18.234 AM] Assembly-CSharp.dll compilation finished in 53ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 04:55:18.245 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:55:18.256 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 04:55:43.360 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 04:55:43.397 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 04:55:43.410 AM] Assembly-CSharp.dll compilation finished in 50ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 04:55:43.421 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 04:55:43.431 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 05:07:36.460 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 05:07:36.505 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 05:07:36.518 AM] Assembly-CSharp.dll compilation finished in 57ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 05:07:36.528 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 05:07:36.539 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 05:08:17.220 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 05:08:17.262 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 05:08:17.276 AM] Assembly-CSharp.dll compilation finished in 55ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 05:08:17.286 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 05:08:17.298 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 05:16:40.609 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 05:16:40.649 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 05:16:40.662 AM] Assembly-CSharp.dll compilation finished in 53ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 05:16:40.673 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 05:16:40.683 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 05:22:39.512 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 05:22:39.549 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 05:22:39.562 AM] Assembly-CSharp.dll compilation finished in 49ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [12/06/2018 05:22:39.573 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 05:22:39.584 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 05:24:57.929 AM] Assembly-CSharp.dll compiling...
- (0,0): [12/06/2018 05:24:57.964 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
- (0,0): [12/06/2018 05:24:57.976 AM] Assembly-CSharp.dll compilation finished in 47ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [12/06/2018 05:24:57.987 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 14539
- (0,0): [12/06/2018 05:24:57.998 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 14539
- (0,0): [12/06/2018 05:25:04.918 AM] watchdog triggered an exit
+ (0,0): [12/07/2018 03:52:57.854 AM] Unity incremental compiler server
+ (0,0): [12/07/2018 03:52:58.111 AM] watchdog active on pid: 26017
+ (0,0): [12/07/2018 03:53:06.358 AM] Unity.Postprocessing.Runtime.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:06.374 AM] Unity.Postprocessing.Runtime.dll compiling...
+ (0,0): [12/07/2018 03:53:06.392 AM] Unity.Properties.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:06.403 AM] Unity.Properties.dll compiling...
+ (0,0): [12/07/2018 03:53:06.546 AM] Unity.Mathematics.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:06.546 AM] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:06.557 AM] Unity.Mathematics.dll compiling...
+ (0,0): [12/07/2018 03:53:06.557 AM] Unity.Burst.dll compiling...
+ (0,0): [12/07/2018 03:53:06.651 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:06.670 AM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [12/07/2018 03:53:09.521 AM] Unity.Properties.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Properties.dll
+ (0,0): [12/07/2018 03:53:09.521 AM] Unity.Postprocessing.Runtime.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Postprocessing.Runtime.dll
+ (0,0): [12/07/2018 03:53:09.521 AM] Unity.Burst.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Burst.dll
+ (0,0): [12/07/2018 03:53:09.521 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.PackageManagerUI.Editor.dll
+ (0,0): [12/07/2018 03:53:09.541 AM] Unity.Postprocessing.Runtime.dll compilation finished in 3167ms  source files re-parsed: 56 metadata reloaded: 201
+ (0,0): [12/07/2018 03:53:09.554 AM] Unity.Postprocessing.Runtime.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:09.605 AM] Unity.Burst.dll compilation finished in 3047ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:09.605 AM] Unity.Properties.dll compilation finished in 3201ms  source files re-parsed: 34 metadata reloaded: 199
+ (0,0): [12/07/2018 03:53:09.605 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 2934ms  source files re-parsed: 44 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:09.617 AM] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:09.617 AM] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:09.627 AM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:10.313 AM] Unity.Properties.Editor.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:10.324 AM] Unity.Properties.Editor.dll compiling...
+ (0,0): [12/07/2018 03:53:10.399 AM] Unity.Postprocessing.Editor.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:10.410 AM] Unity.Postprocessing.Editor.dll compiling...
+ (0,0): [12/07/2018 03:53:10.487 AM] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:10.500 AM] Unity.Burst.Editor.dll compiling...
+ (0,0): [12/07/2018 03:53:10.547 AM] Unity.Properties.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Properties.Editor.dll
+ (0,0): [12/07/2018 03:53:10.563 AM] Unity.Properties.Editor.dll compilation finished in 238ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:10.574 AM] Unity.Properties.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:10.596 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:10.607 AM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [12/07/2018 03:53:10.691 AM] Unity.Postprocessing.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Postprocessing.Editor.dll
+ (0,0): [12/07/2018 03:53:10.704 AM] Unity.Postprocessing.Editor.dll compilation finished in 294ms  source files re-parsed: 35 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:10.705 AM] Unity.Burst.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Burst.Editor.dll
+ (0,0): [12/07/2018 03:53:10.711 AM] Unity.Properties.Codegen.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Properties.Codegen.dll
+ (0,0): [12/07/2018 03:53:10.714 AM] Unity.Postprocessing.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:10.718 AM] Unity.Burst.Editor.dll compilation finished in 218ms  source files re-parsed: 10 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:10.724 AM] Unity.Properties.Codegen.dll compilation finished in 116ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:10.729 AM] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:10.734 AM] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:11.139 AM] Unity.Mathematics.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Mathematics.dll
+ (0,0): [12/07/2018 03:53:11.158 AM] Unity.Mathematics.dll compilation finished in 4601ms  source files re-parsed: 82 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:11.170 AM] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:11.691 AM] Unity.Collections.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:11.703 AM] Unity.Collections.dll compiling...
+ (0,0): [12/07/2018 03:53:11.823 AM] Unity.Mathematics.Editor.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:11.834 AM] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [12/07/2018 03:53:11.854 AM] Unity.Collections.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Collections.dll
+ (0,0): [12/07/2018 03:53:11.867 AM] Unity.Collections.dll compilation finished in 164ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:11.884 AM] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:11.904 AM] Unity.Mathematics.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Mathematics.Editor.dll
+ (0,0): [12/07/2018 03:53:11.917 AM] Unity.Mathematics.Editor.dll compilation finished in 82ms  source files re-parsed: 4 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:11.928 AM] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.114 AM] Unity.Entities.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.125 AM] Unity.Entities.dll compiling...
+ (0,0): [12/07/2018 03:53:12.250 AM] Unity.Jobs.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.267 AM] Unity.Jobs.dll compiling...
+ (0,0): [12/07/2018 03:53:12.368 AM] Unity.Collections.Tests.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.388 AM] Unity.Collections.Tests.dll compiling...
+ (0,0): [12/07/2018 03:53:12.439 AM] Unity.Jobs.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Jobs.dll
+ (0,0): [12/07/2018 03:53:12.458 AM] Unity.Jobs.dll compilation finished in 191ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:12.478 AM] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.640 AM] Unity.Collections.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Collections.Tests.dll
+ (0,0): [12/07/2018 03:53:12.659 AM] Unity.Collections.Tests.dll compilation finished in 270ms  source files re-parsed: 17 metadata reloaded: 3
+ (0,0): [12/07/2018 03:53:12.672 AM] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.734 AM] Unity.Jobs.Tests.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.746 AM] Unity.Jobs.Tests.dll compiling...
+ (0,0): [12/07/2018 03:53:12.840 AM] Unity.Jobs.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Jobs.Tests.dll
+ (0,0): [12/07/2018 03:53:12.844 AM] Unity.Entities.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.dll
+ (0,0): [12/07/2018 03:53:12.845 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.854 AM] Unity.Jobs.Tests.dll compilation finished in 108ms  source files re-parsed: 2 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:12.856 AM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [12/07/2018 03:53:12.864 AM] Unity.Entities.dll compilation finished in 738ms  source files re-parsed: 58 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:12.865 AM] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.876 AM] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:12.907 AM] Unity.Jobs.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Jobs.Editor.dll
+ (0,0): [12/07/2018 03:53:12.921 AM] Unity.Jobs.Editor.dll compilation finished in 64ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:12.932 AM] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:13.323 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:13.334 AM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [12/07/2018 03:53:13.384 AM] Unity.Entities.Hybrid.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Hybrid.dll
+ (0,0): [12/07/2018 03:53:13.402 AM] Unity.Entities.Hybrid.dll compilation finished in 68ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:13.413 AM] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:13.820 AM] Unity.Transforms.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:13.832 AM] Unity.Transforms.dll compiling...
+ (0,0): [12/07/2018 03:53:13.925 AM] Unity.Transforms.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.dll
+ (0,0): [12/07/2018 03:53:13.930 AM] Unity.Entities.TestComponents.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:13.937 AM] Unity.Transforms.dll compilation finished in 105ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:13.941 AM] Unity.Entities.TestComponents.dll compiling...
+ (0,0): [12/07/2018 03:53:13.948 AM] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:13.967 AM] Unity.Entities.TestComponents.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.TestComponents.dll
+ (0,0): [12/07/2018 03:53:13.979 AM] Unity.Entities.TestComponents.dll compilation finished in 38ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:13.990 AM] Unity.Entities.TestComponents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:14.454 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:14.464 AM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [12/07/2018 03:53:14.529 AM] Unity.Entities.Properties.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:14.530 AM] Unity.Rendering.Hybrid.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Rendering.Hybrid.dll
+ (0,0): [12/07/2018 03:53:14.541 AM] Unity.Entities.Properties.dll compiling...
+ (0,0): [12/07/2018 03:53:14.543 AM] Unity.Rendering.Hybrid.dll compilation finished in 79ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:14.554 AM] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:14.598 AM] Unity.Entities.Properties.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Properties.dll
+ (0,0): [12/07/2018 03:53:14.610 AM] Unity.Entities.Properties.dll compilation finished in 70ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:14.621 AM] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:14.630 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:14.641 AM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [12/07/2018 03:53:14.680 AM] Unity.Transforms.Hybrid.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.Hybrid.dll
+ (0,0): [12/07/2018 03:53:14.692 AM] Unity.Transforms.Hybrid.dll compilation finished in 50ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:14.702 AM] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:14.736 AM] Unity.Entities.Tests.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:14.748 AM] Unity.Entities.Tests.dll compiling...
+ (0,0): [12/07/2018 03:53:15.020 AM] Unity.Entities.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Tests.dll
+ (0,0): [12/07/2018 03:53:15.034 AM] Unity.Entities.Tests.dll compilation finished in 285ms  source files re-parsed: 41 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:15.044 AM] Unity.Entities.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.046 AM] Unity.Entities.Editor.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.057 AM] Unity.Entities.Editor.dll compiling...
+ (0,0): [12/07/2018 03:53:15.156 AM] Unity.Entities.Properties.Tests.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.168 AM] Unity.Entities.Properties.Tests.dll compiling...
+ (0,0): [12/07/2018 03:53:15.175 AM] Unity.Entities.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Editor.dll
+ (0,0): [12/07/2018 03:53:15.187 AM] Unity.Entities.Editor.dll compilation finished in 130ms  source files re-parsed: 26 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:15.198 AM] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.213 AM] Unity.Entities.Properties.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Properties.Tests.dll
+ (0,0): [12/07/2018 03:53:15.225 AM] Unity.Entities.Properties.Tests.dll compilation finished in 57ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:15.236 AM] Unity.Entities.Properties.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.460 AM] Unity.Entities.Editor.Tests.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.471 AM] Unity.Entities.Editor.Tests.dll compiling...
+ (0,0): [12/07/2018 03:53:15.526 AM] Unity.Entities.Editor.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Editor.Tests.dll
+ (0,0): [12/07/2018 03:53:15.538 AM] Unity.Entities.Editor.Tests.dll compilation finished in 67ms  source files re-parsed: 5 metadata reloaded: 2
+ (0,0): [12/07/2018 03:53:15.547 AM] Unity.Entities.Hybrid.Tests.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.549 AM] Unity.Entities.Editor.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.559 AM] Unity.Entities.Hybrid.Tests.dll compiling...
+ (0,0): [12/07/2018 03:53:15.608 AM] Unity.Entities.Hybrid.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Entities.Hybrid.Tests.dll
+ (0,0): [12/07/2018 03:53:15.621 AM] Unity.Entities.Hybrid.Tests.dll compilation finished in 62ms  source files re-parsed: 8 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:15.632 AM] Unity.Entities.Hybrid.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.646 AM] Unity.Transforms.Tests.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.658 AM] Unity.Transforms.Tests.dll compiling...
+ (0,0): [12/07/2018 03:53:15.720 AM] Unity.Transforms.Tests.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.Tests.dll
+ (0,0): [12/07/2018 03:53:15.733 AM] Unity.Transforms.Tests.dll compilation finished in 75ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [12/07/2018 03:53:15.743 AM] Unity.Transforms.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.744 AM] Unity.Transforms.Editor.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:15.756 AM] Unity.Transforms.Editor.dll compiling...
+ (0,0): [12/07/2018 03:53:15.794 AM] Unity.Transforms.Editor.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Unity.Transforms.Editor.dll
+ (0,0): [12/07/2018 03:53:15.806 AM] Unity.Transforms.Editor.dll compilation finished in 50ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [12/07/2018 03:53:15.817 AM] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:53:16.249 AM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 26017
+ (0,0): [12/07/2018 03:53:16.260 AM] Assembly-CSharp.dll compiling...
+ (0,0): [12/07/2018 03:53:16.302 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
+ (0,0): [12/07/2018 03:53:16.315 AM] Assembly-CSharp.dll compilation finished in 55ms  source files re-parsed: 13 metadata reloaded: 9
+ (0,0): [12/07/2018 03:53:16.325 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 03:58:07.053 AM] Compiler cache size is now 16.95 MB
+ (0,0): [12/07/2018 04:08:55.860 AM] Assembly-CSharp.dll compiling...
+ (0,0): [12/07/2018 04:08:55.913 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
+ (0,0): [12/07/2018 04:08:55.925 AM] Assembly-CSharp.dll compilation finished in 65ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [12/07/2018 04:08:55.936 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 26017
+ (0,0): [12/07/2018 04:08:55.948 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 04:48:01.302 AM] Assembly-CSharp.dll compiling...
+ (0,0): [12/07/2018 04:48:01.346 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
+ (0,0): [12/07/2018 04:48:01.359 AM] Assembly-CSharp.dll compilation finished in 57ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [12/07/2018 04:48:01.369 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 26017
+ (0,0): [12/07/2018 04:48:01.380 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 04:48:23.162 AM] Assembly-CSharp.dll compiling...
+ (0,0): [12/07/2018 04:48:23.202 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
+ (0,0): [12/07/2018 04:48:23.215 AM] Assembly-CSharp.dll compilation finished in 52ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [12/07/2018 04:48:23.225 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 26017
+ (0,0): [12/07/2018 04:48:23.237 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 04:49:36.623 AM] Assembly-CSharp.dll compiling...
+ (0,0): [12/07/2018 04:49:36.666 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
+ (0,0): [12/07/2018 04:49:36.679 AM] Assembly-CSharp.dll compilation finished in 56ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [12/07/2018 04:49:36.690 AM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 26017
+ (0,0): [12/07/2018 04:49:36.701 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 04:55:20.742 AM] Assembly-CSharp.dll compiling...
+ (0,0): [12/07/2018 04:55:20.786 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
+ (0,0): [12/07/2018 04:55:20.801 AM] Assembly-CSharp.dll compilation finished in 59ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [12/07/2018 04:55:20.813 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 26017
+ (0,0): [12/07/2018 04:55:20.824 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 04:58:31.440 AM] Assembly-CSharp.dll compiling...
+ (0,0): [12/07/2018 04:58:31.473 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
+ (0,0): [12/07/2018 04:58:31.485 AM] Assembly-CSharp.dll compilation finished in 45ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [12/07/2018 04:58:31.496 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 26017
+ (0,0): [12/07/2018 04:58:31.507 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 05:12:33.664 AM] Assembly-CSharp.dll compiling...
+ (0,0): [12/07/2018 05:12:33.701 AM] Assembly-CSharp.dll: emitting IL to : /Users/nereu/Documents/EvangelismRepos/ECS_101/ECS_Drone/Temp/Assembly-CSharp.dll
+ (0,0): [12/07/2018 05:12:33.713 AM] Assembly-CSharp.dll compilation finished in 49ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [12/07/2018 05:12:33.725 AM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 26017
+ (0,0): [12/07/2018 05:12:33.735 AM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 26017
+ (0,0): [12/07/2018 05:12:45.386 AM] watchdog triggered an exit

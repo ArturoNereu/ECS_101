@@ -5,6 +5,7 @@ using Unity.Mathematics;
 
 namespace Drone.Pure
 {
+    // See the comments on the Drone.Pure.MoveSystem as the code works the same way for this one
     public class RotateSystem : ComponentSystem
     {
         struct Data

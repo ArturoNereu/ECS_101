@@ -10,7 +10,7 @@ namespace Drone.Classic
 
         void Update()
         {
-            transform.position = new Vector3(0, Mathf.Sin(Time.time * 1.5f) * translationSpeed * Time.deltaTime, 0);
+            transform.position = new Vector3(0, Mathf.Sin(Time.time * translationSpeed) * 0.5f, 0);
         }
     }
 }

@@ -19,13 +19,13 @@ namespace Drone.Hybrid
         // we call it once every frame and then iterate over all the entities that match the criteria.
         protected override void OnUpdate()
         {
-            var dt = Time.deltaTime;
+            var dt = Time.time;
 
             foreach (var entity in GetEntities<Data>())
             {
                 var pos = entity.transform;
 
-                pos.position = new Vector3(0, Mathf.Sin(Time.time) * entity.movementSpeed.movementSpeed * dt, 0);
+                pos.position = new Vector3(0, Mathf.Sin(Time.time * entity.movementSpeed.movementSpeed) * 0.5f, 0);
             }
         }
     }

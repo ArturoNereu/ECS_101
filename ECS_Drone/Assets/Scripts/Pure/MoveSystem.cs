@@ -22,14 +22,13 @@ namespace Drone.Pure
         [Inject] private Data m_Data;
         protected override void OnUpdate()
         {
-            float dt = Time.deltaTime;
             float t = Time.time;
 
             for (int index = 0; index < m_Data.Length; ++index)
             {
                 var position = m_Data.Position[index].Value;
 
-                position.y = math.sin(t) * m_Data.MoveSpeed[index].speed * dt; // note that we are using the sin from the Unity.Mathematics namespace
+                position.y = math.sin(t * m_Data.MoveSpeed[index].speed) * 0.5f ; // note that we are using the sin from the Unity.Mathematics namespace
 
                 m_Data.Position[index] = new Position { Value = position };
             }

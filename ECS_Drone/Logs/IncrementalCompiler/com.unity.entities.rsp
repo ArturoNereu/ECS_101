@@ -2,11 +2,9 @@
 -target:library
 -nowarn:0169
 -langversion:7
--out:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Temp/Unity.Jobs.dll
+-out:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Temp/com.unity.entities.dll
 -nostdlib
 -unsafe
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Mathematics.dll
--r:C:/Users/HDgam/Documents/EYODF/ECS_101/ECS_Drone/Library/ScriptAssemblies/Unity.Collections.dll
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.20f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.20f1\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.20f1\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll"
@@ -71,6 +69,9 @@
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.20f1\Editor\Data\Managed/Unity.Locator.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.20f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.20f1/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2018.2.20f1/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2018.2.20f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2018.2.20f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.20f1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.20f1/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.20f1/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll"
@@ -308,7 +309,13 @@
 -d:ENABLE_VSTU
 -d:UNITY_PRO_LICENSE
 -d:UNITY_POST_PROCESSING_STACK_V2
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.jobs@0.0.7-preview.5/Unity.Jobs/IJobParallelForBatch.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.jobs@0.0.7-preview.5/Unity.Jobs/IJobParallelForDeferExtensions.cs
--i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.jobs@0.0.7-preview.5/Unity.Jobs/IJobParallelForFilter.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.21/Unity.Burst.Tests/BurstSafetyTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.21/Unity.Burst.Tests/BurstTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.21/Unity.Entities.PerformanceTests/EntityCommandBufferPerformanceTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.21/Unity.Entities.PerformanceTests/EntitySerializationPerformanceTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.21/Unity.Entities.PerformanceTests/InstantiatePerformanceTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.21/Unity.Entities.PerformanceTests/NativeArrayIterationPerformanceTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.21/Unity.Entities.PerformanceTests/SharedComponentPerformanceTests.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.21/Unity.Entities.StaticTypeRegistry/AssemblyInfo.cs
+-i:C:/Users/HDgam/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.entities@0.0.12-preview.21/Unity.Entities.StaticTypeRegistry/StaticTypeRegistry.cs
 -v:0

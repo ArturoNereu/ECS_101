@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "com.unity.entities": "0.0.12-preview.21",
+    "com.unity.collab-proxy": "1.2.15",
+    "com.unity.entities": "0.0.12-preview.24",
     "com.unity.incrementalcompiler": "0.0.42-preview.27",
-    "com.unity.package-manager-ui": "1.9.11",
+    "com.unity.package-manager-ui": "2.0.3",
     "com.unity.postprocessing": "2.0.17-preview",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

@@ -1,11 +1,14 @@
 {
   "dependencies": {
-    "com.unity.collab-proxy": "1.2.15",
-    "com.unity.entities": "0.0.12-preview.24",
-    "com.unity.incrementalcompiler": "0.0.42-preview.27",
-    "com.unity.package-manager-ui": "2.0.3",
-    "com.unity.postprocessing": "2.0.17-preview",
+    "com.unity.entities": "0.1.1-preview",
+    "com.unity.ide.vscode": "1.0.7",
+    "com.unity.package-manager-ui": "2.2.0",
+    "com.unity.rendering.hybrid": "0.1.1-preview",
+    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.timeline": "1.1.0",
+    "com.unity.ugui": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
     "com.unity.modules.audio": "1.0.0",
@@ -35,11 +38,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "registry": "https://staging-packages.unity.com",
-  "testables": [
-    "com.unity.collections",
-    "com.unity.entities",
-    "com.unity.jobs"
-  ]
+  }
 }

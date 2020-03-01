@@ -12,7 +12,7 @@ public class DroneMoveSystem : ComponentSystem
     // we call it once every frame and then iterate over all the entities that match the criteria.
     protected override void OnUpdate()
     {
-        var dt = Time.time;
+        float dt = (float)Time.ElapsedTime;
 
         Entities.ForEach((Entity entity, ref Translation translation, ref DroneMoveComponent droneMoveComponent) =>
         {

@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.entities": "0.6.0-preview.24",
+    "com.unity.entities": "0.8.0-preview.8",
     "com.unity.ide.vscode": "1.1.4",
     "com.unity.rendering.hybrid": "0.3.4-preview.24",
     "com.unity.textmeshpro": "2.0.1",

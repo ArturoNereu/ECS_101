@@ -1,4 +1,8 @@
-# ECS_101
+# ECS 101
+
+## WARNING 
+
+### While the concepts in this README are still valid, the code on this repository is outdated. Te learn the latest on the Unity Entities, Job System and Burst Compiler visit the [DOTS landing page](https://unity.com/dots)
 
 ![ECS Infographic](https://github.com/ArturoNereu/ECS_101/blob/master/ECS_Infographic/ECS_Infographic_EN.jpg)
 

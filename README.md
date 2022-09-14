@@ -4,7 +4,7 @@
 
 ### While the concepts in this README are still valid, the code in this repository is outdated. To learn the latest on the Unity Entities, Job System and Burst Compiler visit the [DOTS landing page](https://unity.com/dots)
 
-![ECS Infographic](https://github.com/ArturoNereu/ECS_101/blob/master/ECS_Infographic/ECS_Infographic_EN.jpg)
+![ECS Infographic](https://github.com/ArturoNereu/ECS_101/blob/master/ECS_Infographic/ECS_Infographic_EN.png)
 
 This repository contains an introduction to Unity's new Entity Component System. The purpose of this is to help developers understand this paradigm, and why it is important to create performant games in Unity.
 

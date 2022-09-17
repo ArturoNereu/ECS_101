@@ -25,7 +25,7 @@ MonoBehaviour:
   m_SupportsTerrainHoles: 1
   m_StoreActionsOptimization: 0
   m_SupportsHDR: 1
-  m_MSAA: 1
+  m_MSAA: 4
   m_RenderScale: 1
   m_UpscalingFilter: 0
   m_FsrOverrideSharpness: 0
@@ -50,7 +50,7 @@ MonoBehaviour:
   m_CascadeBorder: 0.2
   m_ShadowDepthBias: 1
   m_ShadowNormalBias: 1
-  m_SoftShadowsSupported: 0
+  m_SoftShadowsSupported: 1
   m_ConservativeEnclosingSphere: 1
   m_NumIterationsEnclosingSphere: 64
   m_AdditionalLightsCookieResolution: 2048

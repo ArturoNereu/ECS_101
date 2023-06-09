@@ -2,7 +2,7 @@
 
 // This component is assigned to the Drone to manage it's movement. Contains both the data and the code that transforms it.
 // In this particular case, we just have a reference to the translationSpeed, but we inherently reference the object's Transform (Position, Rotation, Scale)
-namespace Drone.Classic
+namespace Classic
 {
     public class DroneMovement : MonoBehaviour
     {

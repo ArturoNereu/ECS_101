@@ -1,4 +1,5 @@
-# Unity - Entity Component System 101
+# Unity
+### Entity Component System 101
 
 ![ECS Infographic](https://github.com/ArturoNereu/ECS_101/blob/master/ECS_Infographic/ECS_Infographic_EN.png)
 

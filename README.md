@@ -5,7 +5,7 @@
 
 This repository contains an introduction to Unity's Entity package (ECS). The purpose of this is to help developers understand this paradigm, and why it is important to create performant games in Unity.
 
-![ECS Drone](https://user-images.githubusercontent.com/263776/39833786-b0b0628c-5390-11e8-8f06-abd398239bd1.gif)
+![Drone](https://github.com/ArturoNereu/ECS_101/assets/263776/aeb2252a-f174-430b-9601-5ac6fea743ef)
 
 I tried to make the simplest possible demo to showcase ECS, please if you have any improvement idea let me know.
 

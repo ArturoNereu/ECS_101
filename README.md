@@ -1,13 +1,20 @@
-# Unity
-### Entity Component System 101
+# Entity Component System 101
 
-![ECS Infographic](https://github.com/ArturoNereu/ECS_101/blob/master/ECS_Infographic/ECS_Infographic_EN.png)
+In 2018, Unity unveiled the Entity Component System as part of DOTS, the Data Oriented Tech Stack. In 2023 we finally have version 1.0 of the [Entities package](https://docs.unity3d.com/Packages/com.unity.entities@1.0/manual/index.html).
 
-This repository contains an introduction to Unity's Entity package (ECS). The purpose of this is to help developers understand this paradigm, and why it is important to create performant games in Unity.
+In this repository I'm doing my best to teach the basics of ECS in the context of Unity. 
+
+If you have only 1 minute, click on the infographic below to learn the very basics of the Entity Component System pattern.
+
+<p align="center">
+  <a href="https://github.com/ArturoNereu/ECS_101/blob/master/ECS_Infographic/ECS_Infographic_EN.png">
+     <img src="https://github.com/ArturoNereu/ECS_101/blob/master/ECS_Infographic/ECS_Infographic_EN.png" width=50% height=50% class="center">
+  </a>
+</p>
+
+// ToDo: Add the explanation of the project.
 
 ![Drone](https://github.com/ArturoNereu/ECS_101/assets/263776/aeb2252a-f174-430b-9601-5ac6fea743ef)
-
-I tried to make the simplest possible demo to showcase ECS, please if you have any improvement idea let me know.
 
 ### Learn more
 ##### If you are curious about ECS, Data Oriented Design and similar topics in the context outside of Unity, take a look at the following resources:

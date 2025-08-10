@@ -18,8 +18,7 @@ public partial struct DroneMoveSystem : ISystem
         var t = (float)SystemAPI.Time.ElapsedTime;
         
         foreach (var (droneMovement, transform) in
-                 SystemAPI.Query<DroneMovement, RefRW<LocalTransform>>()
-                     .WithAll<DroneMovement>())
+                 SystemAPI.Query<DroneMovement, RefRW<LocalTransform>>())
         {
             var speed = droneMovement.TranslationSpeed;
 
